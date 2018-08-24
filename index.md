@@ -25,10 +25,10 @@
     of your use of the Service, and other statistics.</p>
 
 <p><strong>Cookies</strong></p>
-<p>Cookies are files with small amount of data that is commonly used an anonymous unique identifier.
+<p>Cookies are files with small amount of data that is commonly used as an anonymous unique identifier.
     These are sent to your browser from the website that you visit and are stored on your devices’s
     internal memory.</p>
-<p>>This Services does not uses these “cookies” explicitly. However, the app may use third party code
+<p>This Services does not uses these “cookies” explicitly. However, the app may use third party code
     and libraries that use “cookies” to collection information and to improve their services. You
     have the option to either accept or refuse these cookies, and know when a cookie is being sent
     to your device. If you choose to refuse our cookies, you may not be able to use some portions of
@@ -42,7 +42,7 @@
     <li>To perform Service-related services; or</li>
     <li>To assist us in analyzing how our Service is used.</li>
 </ul>
-<p>We want to inform users of this Service that these third parties have access to your Personal
+<p>We want to inform users of this Service that these third parties may have access to some of your Personal
     Information. The reason is to perform the tasks assigned to them on our behalf. However, they
     are obligated not to disclose or use the information for any other purpose.</p>
 
