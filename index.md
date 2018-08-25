@@ -9,20 +9,19 @@
     relation with this policy. The Personal Information that we collect are used for providing and
     improving the Service. We will not use or share your information with anyone except as described
     in this Privacy Policy.</p>
-<p>The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions,
-    which is accessible in the app, unless otherwise defined in this Privacy Policy.</p>
+<p>The terms used in this Privacy Policy has the same meanings as the Terms And Conditions in our app, unless otherwise defined in this Privacy Policy.</p>
 
 <p><strong>Information Collection and Use</strong></p>
-<p>For a better experience while using our Service, we may require you to provide us with certain information, including but not limited to media, files, and etc... 
+<p>For a better experience while using our Service, we may require you to provide us with certain information, including but not limited to media, files, camera pics and etc... This is because this is an encryption app, which is used to encrypt and secure your files. So we must have some access to them in order to do so.
 	The information that we request is retained on your device and is not collected by us in any way.</p>
 <p>The app does not use any third party services that may collect any of your information used to identify you.
 
 <p><strong>Log Data</strong></p>
-<p>We want to inform you that whenever you use our Service, in case of an error in the app we collect
+<p>We want to inform you that whenever you use our Service, in case of an error in the app we may collect
     data and information (through third party products) on your phone called Log Data. This Log Data
     may include information such as your devices’s Internet Protocol (“IP”) address, device name,
     operating system version, configuration of the app when utilising our Service, the time and date
-    of your use of the Service, and other statistics.</p>
+    of your use of the Service, and other statistics. This is only to improve our services.</p>
 
 <p><strong>Cookies</strong></p>
 <p>Cookies are files with small amount of data that is commonly used as an anonymous unique identifier.
@@ -42,8 +41,7 @@
     <li>To perform Service-related services; or</li>
     <li>To assist us in analyzing how our Service is used.</li>
 </ul>
-<p>We want to inform users of this Service that these third parties may have access to some of your Personal
-    Information. The reason is to perform the tasks assigned to them on our behalf. However, they
+<p>We want to inform users of this Service that these third parties may have access to some of your information. The reason is to perform the tasks assigned to them on our behalf. However, they
     are obligated not to disclose or use the information for any other purpose.</p>
 
 <p><strong>Security</strong></p>
@@ -55,7 +53,7 @@
 <p><strong>Links to Other Sites</strong></p>
 <p>This Service may contain links to other sites. If you click on a third-party link, you will be
     directed to that site. Note that these external sites are not operated by us. Therefore, I
-    strongly advise you to review the Privacy Policy of these websites. I have no control over, and
+    strongly advise you to review the Privacy Policy of these websites. We have no control over, and
     assume no responsibility for the content, privacy policies, or practices of any third-party
     sites or services.</p>
 
