@@ -1,7 +1,7 @@
 <html>
 <body>
 <h2>Privacy Policy</h2>
-<p>Access built the File Encryption app as a free app. This SERVICE is provided by Access at no cost and is intended
+<p>Access has built this app as a free app. This SERVICE is provided by Access at no cost and is intended
     for use as is.</p>
 <p>This page is used to inform website visitors regarding our policies with the collection, use, and
     disclosure of Personal Information if anyone decided to use our Service.</p>
@@ -12,13 +12,13 @@
 <p>The terms used in this Privacy Policy has the same meanings as the Terms And Conditions in our app, unless otherwise defined in this Privacy Policy.</p>
 
 <p><strong>Information Collection and Use</strong></p>
-<p>For a better experience while using our Service, we may require you to provide us with certain information, including but not limited to media, files, camera pics and etc... This is because this is an encryption app, which is used to encrypt and secure your files. So we must have some access to them in order to do so.
+<p>For a better experience while using our Service, we may require you to provide us with certain information, including but not limited to media, files, camera pics and etc... This is because sometimes while running specific apps, operations may be required, which may require use of these items to perform the function of which the app has been built to do. So we must have some access to them in order to do so.
 	The information that we request is retained on your device and is not collected by us in any way.</p>
 <p>The app does not use any third party services that may collect any of your information used to identify you.
 
 <p><strong>Log Data</strong></p>
-<p>We want to inform you that whenever you use our Service, in case of an error in the app we may collect
-    data and information (through third party products) on your phone called Log Data. This Log Data
+<p>We want to inform you that whenever you use our Service, in case of an error in the app we may collect some 
+    basic data and information (through third party products) on your phone called Log Data. This Log Data
     may include information such as your devices’s Internet Protocol (“IP”) address, device name,
     operating system version, configuration of the app when utilising our Service, the time and date
     of your use of the Service, and other statistics. This is only to improve our services.</p>
