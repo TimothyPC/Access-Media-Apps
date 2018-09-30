@@ -75,5 +75,4 @@
 <p>This Privacy Policy page was created at <a href="https://privacypolicytemplate.net"
                                               target="_blank">privacypolicytemplate.net</a>.</p>
 <p>02439561</p>
-</body>
-</html>
+
