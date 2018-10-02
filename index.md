@@ -76,7 +76,7 @@
                                               target="_blank">privacypolicytemplate.net</a>.</p>
 					      
 
- <p>02439561</p>
+ 02439561
 
 <!--     -->
 
