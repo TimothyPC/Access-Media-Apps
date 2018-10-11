@@ -83,20 +83,46 @@
       
         02439562
 	112233
+	##
         $http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8
+	
+	##
         $http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/master.m3u8
+       
+	##
         $http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+	
+	##
 	$http://161.0.157.6/PLTV/88888888/224/3221227026/03.m3u8
+	
+	##
 	$http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
+	
+	##
 	$http://qvclvp2.mmdlive.lldns.net/qvclvp2/9aa645c89c5447a8937537011e8f8d0d/manifest.m3u8
+	
+	##
 	$http://atlas.its.virginia.edu:8088/hls/m3u8/METV.m3u8
+	
+	##
 	$http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
+	
+	##
 	$http://nimble.dashmedia.tv/onestudio/classictv/playlist.m3u8
+	
+	##
 	$http://stitcher.pluto.tv/stitch/hls/channel/51c75f7bb6f26ba1cd00002f/master.m3u8?deviceType=%2C%2C&deviceMake=&deviceModel=&sid=c8b023af-ff3b-4fb6-87f0-4af929510c3d&deviceId=29556502-e2a5-45de-8deb-3b3dfa36b936_e62c9abb601b4ed5&deviceVersion=7.1.1_25&appVersion=3.5.1&deviceDNT=0&userId=&advertisingId=6e7a218c-1bf7-46bf-b486-0902a3cd5a1c&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
 
+         ##
 	$http://w3.cdn.anvato.net/live/ephemeral/3QA1gOwdRzqhnwPBUewI5VY7Yd9pnkvb/owny/1296k/index.m3u8
+	
+	##
 	$http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+	
+	##
 	$http://dcunilive2-lh.akamaihd.net/i/dclive_1@390829/master.m3u8
+	
+	##
 	$http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8?play-only=primary
 	
 	$http://bblive-liveproduseast.hs.llnwd.net/btv/desktop/us_live.m3u8
@@ -135,14 +161,263 @@
 	$http://wse.planeta-online.tv:1935/live/channel_3/chunklist.m3u8
 	$http://stitcher.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
 	
+	
+	
+	
+Spanish channels
+
+#Real Madrid TV#
+$http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?sd=10&rebase=on
+
+#Wow Tv (Peliculas Nuevas)#
+$http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
+
+
+Radio Channels
+
+#Adult Alternative#
+$http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-022/chunklist.m3u8											
+				
+
+					#Alternative R&B#
+$http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-163/chunklist.m3u8
+					
+#Alternative#
+$http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-014/chunklist.m3u8
+					
+#Brits + Hits#
+$http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-154/chunklist.m3u8
+					
+#Dance/EDM#
+$http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-013/chunklist.m3u8
+					
+#Hip-Hop and R&B#
+$http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-005/chunklist.m3u8
+
+					
+#Hit List#
+$http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-002/chunklist.m3u8
+				
+#Indie#
+$http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-117/chunklist.m3u8
+					
+#Love Songs#
+$http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-049/chunklist.m3u8
+					
+#Metal#
+$http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-015/chunklist.m3u8
+					
+#Music Choice Max#
+$http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-050/chunklist.m3u8
+					
+#Pop & Country#
+$http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-047/chunklist.m3u8
+					
+#Pop Hits#
+$http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-029/chunklist.m3u8
+					
+#R&B Soul#
+$http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-010/chunklist.m3u8
+					
+#Rap#
+$http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-011/chunklist.m3u8
+					
+#Rap 2K#
+$http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-165/chunklist.m3u8
+					
+#Reggae#
+$http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-024/chunklist.m3u8
+					
+#Rock#
+$http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-044/chunklist.m3u8
+					
+Soft Rock##
+$http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-001/chunklist.m3u8
+					
+#Teen Beats#
+$http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-051/chunklist.m3u8
+					
+#Today's Country#
+$http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-003/chunklist.m3u8
+					
+#Underground Hip-Hop#
+$http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-149/chunklist.m3u8
+					
+#70s#
+$http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-036/chunklist.m3u8
+					
+#80s#
+$http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-038/chunklist.m3u8
+					
+#90s#
+$http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-039/chunklist.m3u8
+					
+#Classic Alternative#
+$http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-146/chunklist.m3u8
+
+					
+#Classic Country#
+$http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-027/chunklist.m3u8
+					
+#Classic Dance#
+$http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-162/chunklist.m3u8
+					
+#Classic Metal#
+$http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-153/chunklist.m3u8
+					
+#Classic Rock#
+$http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-006/chunklist.m3u8
+					
+#Country Hits#
+$http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-040/chunklist.m3u8
+					
+#Emo X Screamo#
+$http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-164/chunklist.m3u8
+					
+#Funk#
+$http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-161/chunklist.m3u8
+					
+#Hip-Hop Classics#
+$http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-019/chunklist.m3u8
+					
+#New Wave#
+$http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-166/chunklist.m3u8
+					
+#Punk#
+$http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-152/chunklist.m3u8
+					
+#R&B Classics#
+$http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-043/chunklist.m3u8
+					
+#Rock Hits#
+$http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-035/chunklist.m3u8
+					
+#Solid Gold Oldies#
+$http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-004/chunklist.m3u8
+					
+#Throwback Jamz#
+$http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-042/chunklist.m3u8
+					
+#Y2K#
+$http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-048/chunklist.m3u8
+
+					
+#Latin Jazz#
+$http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-157/chunklist.m3u8
+				
+#Mexicana#
+$http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-026/chunklist.m3u8
+					
+#Musica Urbana#
+$http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-034/chunklist.m3u8
+					
+#Pop Latino#
+$http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-041/chunklist.m3u8
+				
+#Rock Latino#
+$http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-155/chunklist.m3u8
+
+					
+#Romances#
+$http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-031/chunklist.m3u8
+					
+#Teen Ritmos#
+$http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-159/chunklist.m3u8
+
+					
+#Tropicales#
+$http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-025/chunklist.m3u8
+					
+#All Xmas#
+$http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-158/chunklist.m3u8
+					
+#Americana#
+$http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-147/chunklist.m3u8
+
+					
+#Bluegrass#
+$http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-148/chunklist.m3u8
+					
+#Blues#
+$http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-046/chunklist.m3u8
+					
+#Classical Masterpieces#
+$http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-017/chunklist.m3u8
+
+					
+#Contemporary Christian#
+$http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-016/chunklist.m3u8
+					
+#Easy Listening#
+$http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-009/chunklist.m3u8
+					
+#Folk#
+$http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-156/chunklist.m3u8
+
+					
+#Gospel#
+$http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-023/chunklist.m3u8
+					
+#Jazz#
+$http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-012/chunklist.m3u8
+					
+#Light Classical#
+$http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-008/chunklist.m3u8
+					
+#Lounge#
+$http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-150/chunklist.m3u8
+
+					
+#Opera#
+$http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-167/chunklist.m3u8
+
+					
+#Party Favorites#
+$http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-033/chunklist.m3u8
+				
+#Singers & Swing#
+$http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-018/chunklist.m3u8
+					
+#Smooth Jazz#
+$http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-007/chunklist.m3u8
+
+					
+#Sounds of The Seasons#
+$http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-032/chunklist.m3u8.m3u8	
+			
+#Soundscapes#
+$http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-045/chunklist.m3u8
+				
+#Stage & Screen#
+$http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-028/chunklist.m3u8
+
+					
+#Kids Movie Soundtracks#
+$http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-160/chunklist.m3u8
+					
+#Kidz Only#
+$http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-021/chunklist.m3u8
+					
+#Toddler Tunes#
+$http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-020/chunklist.m3u8
+					
+#Brazilian Pop#
+$http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-135/chunklist.m3u8
+					
+#Philipino#
+$http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-136/chunklist.m3u8					
+
+#K-Pop#
+$http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-134/chunklist.m3u8
+
+#80s Rock#
+$http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-151/chunklist.m3u8						
+
+
+	
 	442211
 
-	http://
-	http://
-	http://
-	http://
-	http://
-	http://
+	
 	
 	
 	
