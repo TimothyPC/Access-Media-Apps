@@ -200,34 +200,34 @@
 	#Country Music Channel (CMC)#
 	http://
 	
-	##
+	#Atlanta Channel#
 	$http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/chucklist.m3u8
 	
-	##
+	#Beach Tv (Pawleys Island)#
 	$http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
 	
-	##
+	#Beach Tv (Panama City)#
 	$http://media4.tripsmarter.com:1935/LiveTV/BTVHD/chucklist.m3u8
 	
-	##
+	#Beach Tv (30A)#
 	$http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
 	
-	##
+	#Daytona Beach#
 	$http://oflash.dfw.swagit.com/live/daytonabeachfl/smil:std-4x3-1-a/chucklist.m3u8
 	
-	##
+	#Bowie Tv#
 	$http://granicusliveus3-a.akamaihd.net/cityofbowie/G0466_001/playlist.m3u8
 	
-	##
+	#Buffalo Tv#
 	$http://na-all15.secdn.net/pegstream3-live/play/c3e1e4c4-7f11-4a54-8b8f-c590a95b4ade/playlist.m3u8
 	
-	##
+	#Kool Tv#
 	$http://173.199.158.79:1935/roku/myStream/playlist.m3u8
 	
-	##
+	#Live Fish Tank#
 	$http://wse.planeta-online.tv:1935/live/channel_3/chunklist.m3u8
 	
-	##
+	#Black Cinema#
 	$http://stitcher.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
 	
 	
