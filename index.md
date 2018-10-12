@@ -198,7 +198,7 @@
 	$http://api.new.livestream.com/accounts/9486720/events/3245377/live.m3u8$
 	
 	#Country Music Channel (CMC)#
-	http://
+	$http://dcunilive2-lh.akamaihd.net/i/dclive_1@390829/master.m3u8$
 	
 	#Atlanta Channel#
 	$http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/chucklist.m3u8$
