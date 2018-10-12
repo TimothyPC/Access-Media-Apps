@@ -83,82 +83,151 @@
       
         02439562
 	112233
-	##
+	#ABC#
         $http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8
 	
-	##
+	#MSNBC#
         $http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/master.m3u8
        
-	##
+	#CBSN#
         $http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
 	
-	##
+	#HBO2#
 	$http://161.0.157.6/PLTV/88888888/224/3221227026/03.m3u8
 	
-	##
+	#Cartoon Network#
 	$http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
 	
-	##
+	#QVC#
 	$http://qvclvp2.mmdlive.lldns.net/qvclvp2/9aa645c89c5447a8937537011e8f8d0d/manifest.m3u8
 	
-	##
+	#MeTV#
 	$http://atlas.its.virginia.edu:8088/hls/m3u8/METV.m3u8
 	
-	##
+	#NASA TV#
 	$http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
 	
-	##
+	#Classic Tv#
 	$http://nimble.dashmedia.tv/onestudio/classictv/playlist.m3u8
 	
-	##
+	#Kids Tv#
 	$http://stitcher.pluto.tv/stitch/hls/channel/51c75f7bb6f26ba1cd00002f/master.m3u8?deviceType=%2C%2C&deviceMake=&deviceModel=&sid=c8b023af-ff3b-4fb6-87f0-4af929510c3d&deviceId=29556502-e2a5-45de-8deb-3b3dfa36b936_e62c9abb601b4ed5&deviceVersion=7.1.1_25&appVersion=3.5.1&deviceDNT=0&userId=&advertisingId=6e7a218c-1bf7-46bf-b486-0902a3cd5a1c&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
 
-         ##
+         #OWN#
 	$http://w3.cdn.anvato.net/live/ephemeral/3QA1gOwdRzqhnwPBUewI5VY7Yd9pnkvb/owny/1296k/index.m3u8
 	
-	##
+	#MTV#
 	$http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 	
-	##
+	#Country Network#
 	$http://dcunilive2-lh.akamaihd.net/i/dclive_1@390829/master.m3u8
 	
-	##
+	#DW Information Channel#
 	$http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8?play-only=primary
 	
+	#Bloomberg#
 	$http://bblive-liveproduseast.hs.llnwd.net/btv/desktop/us_live.m3u8
+	
+	#Sony Movie Network#
 	$http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3u8?sd=10&rebase=on"
+	
+	#ESPN2#
 	$http://161.0.157.8/PLTV/88888888/224/3221226881/index.m3u8
+	
+	#Horror Tv#
 	$http://170.178.189.66:1935/live/Stream1/playlist.m3u8
+	
+	#Discovery Channel#
 	$http://80.80.160.168/live/8/live.m3u8
+	
+	#Showtime#
 	$http://80.80.160.168/live/7/live.m3u8
+	
+	#ESPN#
 	$http://80.80.160.168/live/6/live.m3u8
+	
+	#Investigation Discovery#
 	$http://80.80.160.168/live/5/live.m3u8
+	
+	#Planet Green#
 	$http://80.80.160.168/live/4/live.m3u8
+	
+	#Travel Channel#
 	$http://80.80.160.168/live/3/live.m3u8
+	
+	#TLC#
 	$http://80.80.160.168/live/2/live.m3u8
+	
+	#Animal Planet#
 	$http://80.80.160.168/live/1/live.m3u8
+	
+	#Science#
 	$http://80.80.160.168/live/9/live.m3u8
+	
+	#Adulswim#
 	$http://adultswimhls-i.akamaihd.net/hls/live/238460/adultswim/main/1/master.m3u8
+	
+	#God Tv#
 	$http://ooyalahd2-f.akamaihd.net/i/godtv01_delivery@17341/master.m3u8
+	
+	#Bravo#
 	$http://161.0.157.7/PLTV/88888888/224/3221226804/03.m3u8
+	
+	#WGN#
 	$http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_750_av-b.m3u8
+	
+	#Beach Tv#
 	$http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
+	
+	#Weather Channel#
 	$http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
+	
+	#Toonami#
 	$http://amd.cdn.turner.com/adultswim/big/streams/playlists/toonami.m3u8?attributes=off
+	
+	#Daystar#
 	$http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8
+	
+	#Hit Tv (English)#
 	$http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_3.m3u8
+	
+	#Fox5 News#
 	$http://api.new.livestream.com/accounts/9263055/events/3189799/live.m3u8
+	
+	#Fox40 News#
 	$http://api.new.livestream.com/accounts/9486720/events/3245377/live.m3u8
+	
+	#Country Music Channel (CMC)#
 	http://
+	
+	##
 	$http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/chucklist.m3u8
+	
+	##
 	$http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
+	
+	##
 	$http://media4.tripsmarter.com:1935/LiveTV/BTVHD/chucklist.m3u8
+	
+	##
 	$http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
+	
+	##
 	$http://oflash.dfw.swagit.com/live/daytonabeachfl/smil:std-4x3-1-a/chucklist.m3u8
+	
+	##
 	$http://granicusliveus3-a.akamaihd.net/cityofbowie/G0466_001/playlist.m3u8
+	
+	##
 	$http://na-all15.secdn.net/pegstream3-live/play/c3e1e4c4-7f11-4a54-8b8f-c590a95b4ade/playlist.m3u8
+	
+	##
 	$http://173.199.158.79:1935/roku/myStream/playlist.m3u8
+	
+	##
 	$http://wse.planeta-online.tv:1935/live/channel_3/chunklist.m3u8
+	
+	##
 	$http://stitcher.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
 	
 	
