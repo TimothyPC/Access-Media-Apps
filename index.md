@@ -148,7 +148,7 @@
 	
 	#Investigation Discovery#
 	$http://80.80.160.168/live/5/live.m3u8$
-	$
+	
 	#Planet Green#
 	$http://80.80.160.168/live/4/live.m3u8$
 	
