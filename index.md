@@ -551,8 +551,8 @@ $url place holder$
 #title place holder#
 $url place holder$
 
-#title place holder#
-$url place holder$
+#Test Link 80s Rock#
+$http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-151/chunklist.m3u8$
 	
 	442211
 
