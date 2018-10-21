@@ -484,38 +484,38 @@ $http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-151/chunkl
 
 <!--start of ch 127 - 200 for usa button menu -->
 
-#title place holder#
-$url place holder$
+#Ad Sports 2#
+$http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8$
 
-#title place holder#
-$url place holder$
+#Dream Tv#
+$http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8$
 
-#title place holder#
-$url place holder$
+#Major League Baseball Network#
+$http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8$
 
-#title place holder#
-$url place holder$
+#Disney Channel HD#
+$http://eirking.pro:8080/live/exchange/sGFHK47UC6/20.m3u8$
 
-#title place holder#
-$url place holder$
+#Disney Jr.#
+$http://eirking.pro:8080/live/exchange/sGFHK47UC6/388.m3u8$
 
-#title place holder#
-$url place holder$
+#Home And Health#
+$http://eirking.pro:8080/live/exchange/sGFHK47UC6/33.m3u8$
 
-#title place holder#
-$url place holder$
+#USA Network#
+$http://eirking.pro:8080/live/exchange/sGFHK47UC6/453.m3u8$
 
-#title place holder#
-$url place holder$
+#History Channel#
+$http://eirking.pro:8080/live/exchange/sGFHK47UC6/34.m3u8$
 
-#title place holder#
-$url place holder$
+#Food Network#
+$http://eirking.pro:8080/live/exchange/sGFHK47UC6/1652.m3u8$
 
-#title place holder#
-$url place holder$   <!-- 10 -- >
+#NBC#
+$http://linkbaru.com/iptv/001.m3u8$   <!-- 10 -- >
 
-#title place holder#
-$url place holder$
+#Fashion Tv#
+$http://linkbaru.com/iptv/005.m3u8$
 
 #title place holder#
 $url place holder$
@@ -553,9 +553,8 @@ $url place holder$
 #title place holder#
 $url place holder$
 
-#Test USA Link1 80s Rock#
-$http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-151/chunklist.m3u8$
-
+#title place holder#
+$url place holder$
 
 #title place holder#
 $url place holder$
@@ -626,9 +625,8 @@ $url place holder$
 #title place holder#
 $url place holder$
 
-#Test USA Link2 80s Rock#
-$http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-151/chunklist.m3u8$      
-
+#title place holder#
+$url place holder$      
 
 #title place holder#
 $url place holder$
@@ -699,8 +697,8 @@ $url place holder$      <!-- 70 -- >
 #title place holder#
 $url place holder$
 
-#Test USA Link3 80s Rock#
-$http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-151/chunklist.m3u8$
+#title place holder#
+$url place holder$
 	
 #title place holder#
 $url place holder$   
@@ -712,8 +710,8 @@ $url place holder$  <!-- 74 -- >
 
 <!--start of ch 201 - 300 for spanish button menu -->
 
-#title place holder#
-$url place holder$
+#Esperanza (Spn)#
+$http://k3.usastreams.com:1935/etvSD/etvSD/live.m3u8$
 
 #title place holder#
 $url place holder$
@@ -781,8 +779,8 @@ $url place holder$
 #title place holder#
 $url place holder$
 
-#Test Spn Link1 80s Rock#
-$http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-151/chunklist.m3u8$
+#title place holder#
+$url place holder$
 
 #title place holder#
 $url place holder$
@@ -853,8 +851,8 @@ $url place holder$
 #title place holder#
 $url place holder$
 
-#Test Spn Link2 80s Rock#
-$http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-151/chunklist.m3u8$      
+#title place holder#
+$url place holder$      
 
 #title place holder#
 $url place holder$
@@ -988,8 +986,8 @@ $url place holder$
 #title place holder#
 $url place holder$
 
-#Test Spn Link3 80s Rock#
-$http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-151/chunklist.m3u8$
+#title place holder#
+$url place holder$
 	
 #title place holder#
 $url place holder$
@@ -1085,8 +1083,8 @@ $url place holder$
 #title place holder#
 $url place holder$
 
-#Test WCam Link1 80s Rock#
-$http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-151/chunklist.m3u8$
+#title place holder#
+$url place holder$
 
 #title place holder#
 $url place holder$
@@ -1157,8 +1155,8 @@ $url place holder$
 #title place holder#
 $url place holder$
 
-#Test WCam Link2 80s Rock#
-$http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-151/chunklist.m3u8$      
+#title place holder#
+$url place holder$      
 
 #title place holder#
 $url place holder$
@@ -1229,8 +1227,8 @@ $url place holder$      <!-- 70 -- >
 #title place holder#
 $url place holder$
 
-#Test WCam Link3 80s Rock#
-$http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-151/chunklist.m3u8$
+#title place holder#
+$url place holder$
 	
 #title place holder#
 $url place holder$  
@@ -1304,8 +1302,8 @@ $url place holder$
 #title place holder#
 $url place holder$
 
-#Test WCam Link4 80s Rock#
-$http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-151/chunklist.m3u8$
+#title place holder#
+$url place holder$
 
 #title place holder#
 $url place holder$
