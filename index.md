@@ -1316,8 +1316,7 @@ $url place holder$
 #title place holder#
 $url place holder$   <!-- 100 -- >
 
-#title place holder#
-$url place holder$
+
 
 
 
