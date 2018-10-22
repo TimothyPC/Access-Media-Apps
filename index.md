@@ -484,8 +484,6 @@ $http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-151/chunkl
 
 start of ch 127 - 200 for usa button menu 
 
-#Ad Sports 2#
-$http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8$
 
 #Dream Tv#
 $http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8$
