@@ -299,7 +299,7 @@ $http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-024/chunkl
 #Rock#
 $http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-044/chunklist.m3u8$
 					
-Soft Rock##
+#Soft Rock#
 $http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-001/chunklist.m3u8$
 					
 #Teen Beats#
