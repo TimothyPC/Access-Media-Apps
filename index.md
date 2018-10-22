@@ -482,7 +482,7 @@ $http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-134/chunkl
 $http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-151/chunklist.m3u8$
 
 
---start of ch 127 - 200 for usa button menu --
+start of ch 127 - 200 for usa button menu 
 
 #Ad Sports 2#
 $http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8$
@@ -512,7 +512,7 @@ $http://eirking.pro:8080/live/exchange/sGFHK47UC6/34.m3u8$
 $http://eirking.pro:8080/live/exchange/sGFHK47UC6/1652.m3u8$
 
 #NBC#
-$http://linkbaru.com/iptv/001.m3u8$   -- 10 -- 
+$http://linkbaru.com/iptv/001.m3u8$    10 
 
 #Fashion Tv#
 $http://linkbaru.com/iptv/005.m3u8$
@@ -542,7 +542,7 @@ $url place holder$
 $url place holder$
 
 #title place holder#
-$url place holder$  -- 20 -- 
+$url place holder$   20
 
 #title place holder#
 $url place holder$
@@ -572,7 +572,7 @@ $url place holder$
 $url place holder$
 
 #title place holder#
-$url place holder$    -- 30 -- 
+$url place holder$     30 
 
 #title place holder#
 $url place holder$
@@ -602,7 +602,7 @@ $url place holder$
 $url place holder$
 
 #title place holder#
-$url place holder$    -- 40 --
+$url place holder$     40
 
 #title place holder#
 $url place holder$
@@ -632,7 +632,7 @@ $url place holder$
 $url place holder$
 
 #title place holder#
-$url place holder$       -- 50 -- 
+$url place holder$        50 
 
 #title place holder#
 $url place holder$
@@ -662,7 +662,7 @@ $url place holder$
 $url place holder$
 
 #title place holder#
-$url place holder$      -- 60 -- 
+$url place holder$      60 
 
 #title place holder#
 $url place holder$
@@ -692,7 +692,7 @@ $url place holder$
 $url place holder$
 
 #title place holder#
-$url place holder$      -- 70 -- 
+$url place holder$      70 
 
 #title place holder#
 $url place holder$
@@ -704,11 +704,11 @@ $url place holder$
 $url place holder$   
 
 #title place holder#
-$url place holder$  -- 74 -- 
+$url place holder$  74 
 
 
 
---start of ch 201 - 300 for spanish button menu --
+start of ch 201 - 300 for spanish button menu 
 
 #Esperanza (Spn)#
 $http://k3.usastreams.com:1935/etvSD/etvSD/live.m3u8$
@@ -738,7 +738,7 @@ $url place holder$
 $url place holder$
 
 #title place holder#
-$url place holder$  -- 10 --
+$url place holder$  10 
 
 #title place holder#
 $url place holder$
@@ -768,7 +768,7 @@ $url place holder$
 $url place holder$
 
 #title place holder#
-$url place holder$  -- 20 -- 
+$url place holder$   20 
 
 #title place holder#
 $url place holder$
@@ -798,7 +798,7 @@ $url place holder$
 $url place holder$
 
 #title place holder#
-$url place holder$    -- 30 -- 
+$url place holder$     30 
 
 #title place holder#
 $url place holder$
@@ -828,7 +828,7 @@ $url place holder$
 $url place holder$
 
 #title place holder#
-$url place holder$    -- 40 -- 
+$url place holder$     40 
 
 #title place holder#
 $url place holder$
@@ -858,7 +858,7 @@ $url place holder$
 $url place holder$
 
 #title place holder#
-$url place holder$       -- 50 -- 
+$url place holder$      50 
 
 #title place holder#
 $url place holder$
@@ -888,7 +888,7 @@ $url place holder$
 $url place holder$
 
 #title place holder#
-$url place holder$       -- 60 -- 
+$url place holder$       60 
 
 #title place holder#
 $url place holder$
@@ -918,7 +918,7 @@ $url place holder$
 $url place holder$
 
 #title place holder#
-$url place holder$      -- 70 -- 
+$url place holder$      70 
 
 #title place holder#
 $url place holder$
@@ -948,7 +948,7 @@ $url place holder$
 $url place holder$
 
 #title place holder#
-$url place holder$    -- 80 -- 
+$url place holder$    80 
 
 #title place holder#
 $url place holder$
@@ -978,7 +978,7 @@ $url place holder$
 $url place holder$
 
 #title place holder#
-$url place holder$       -- 90 -- 
+$url place holder$       90 
 
 #title place holder#
 $url place holder$
@@ -1008,41 +1008,11 @@ $url place holder$
 $url place holder$
 
 #title place holder#
-$url place holder$        -- 100 -- 
+$url place holder$        100 
 
 
 
---start of ch 301 - 400 for world cam button menu --
-
-#title place holder#
-$url place holder$
-
-#title place holder#
-$url place holder$
-
-#title place holder#
-$url place holder$
-
-#title place holder#
-$url place holder$
-
-#title place holder#
-$url place holder$
-
-#title place holder#
-$url place holder$
-
-#title place holder#
-$url place holder$
-
-#title place holder#
-$url place holder$
-
-#title place holder#
-$url place holder$
-
-#title place holder#
-$url place holder$  -- 10 -- 
+start of ch 301 - 400 for world cam button menu 
 
 #title place holder#
 $url place holder$
@@ -1072,7 +1042,7 @@ $url place holder$
 $url place holder$
 
 #title place holder#
-$url place holder$  -- 20 -- 
+$url place holder$   10 
 
 #title place holder#
 $url place holder$
@@ -1102,7 +1072,7 @@ $url place holder$
 $url place holder$
 
 #title place holder#
-$url place holder$    -- 30 -- 
+$url place holder$  20 
 
 #title place holder#
 $url place holder$
@@ -1132,7 +1102,37 @@ $url place holder$
 $url place holder$
 
 #title place holder#
-$url place holder$    -- 40 -- 
+$url place holder$    30 
+
+#title place holder#
+$url place holder$
+
+#title place holder#
+$url place holder$
+
+#title place holder#
+$url place holder$
+
+#title place holder#
+$url place holder$
+
+#title place holder#
+$url place holder$
+
+#title place holder#
+$url place holder$
+
+#title place holder#
+$url place holder$
+
+#title place holder#
+$url place holder$
+
+#title place holder#
+$url place holder$
+
+#title place holder#
+$url place holder$    40 
 
 #title place holder#
 $url place holder$
@@ -1162,7 +1162,7 @@ $url place holder$
 $url place holder$
 
 #title place holder#
-$url place holder$       -- 50 -- 
+$url place holder$       50 
 
 #title place holder#
 $url place holder$
@@ -1192,7 +1192,7 @@ $url place holder$
 $url place holder$
 
 #title place holder#
-$url place holder$       -- 60 -- 
+$url place holder$       60 
 
 #title place holder#
 $url place holder$
@@ -1222,7 +1222,7 @@ $url place holder$
 $url place holder$
 
 #title place holder#
-$url place holder$      -- 70 -- 
+$url place holder$      70 
 
 #title place holder#
 $url place holder$
@@ -1252,7 +1252,7 @@ $url place holder$
 $url place holder$
 
 #title place holder#
-$url place holder$     -- 80 -- 
+$url place holder$      80 
 
 #title place holder#
 $url place holder$
@@ -1282,7 +1282,7 @@ $url place holder$
 $url place holder$
 
 #title place holder#
-$url place holder$  -- 90 -- 
+$url place holder$  90 
 
 #title place holder#
 $url place holder$
@@ -1312,7 +1312,7 @@ $url place holder$
 $url place holder$
 
 #title place holder#
-$url place holder$   -- 100 -- 
+$url place holder$   100 
 
 
 
