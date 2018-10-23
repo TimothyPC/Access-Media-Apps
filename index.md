@@ -713,20 +713,20 @@ start of ch 201 - 300 for spanish button menu
 #Esperanza (Spn)#
 $http://k3.usastreams.com:1935/etvSD/etvSD/live.m3u8$
 
-#title place holder#
-$url place holder$
+#BH TV#
+$http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8$
 
-#title place holder#
-$url place holder$
+#Telecibao#
+$https://59f1cbe63db89.streamlock.net:1443/cibaotv/_definst_/cibaotv/chunklist_w1438119171.m3u8$
 
-#title place holder#
-$url place holder$
+#WMS#
+$http://cm.hostlagarto.com:8081/wmserviceHD/wmservicehd.myStream/chunks.m3u8$
 
-#title place holder#
-$url place holder$
+#ATV#
+$http://dqsz3cincv704.cloudfront.net/pe/smil:canal_atv.smil/chunklist_b1056768.m3u8$
 
-#title place holder#
-$url place holder$
+#Hoy Jugamos#
+$http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on?iptvgratis?chile.m3u8$
 
 #title place holder#
 $url place holder$
@@ -1014,56 +1014,56 @@ $url place holder$        100
 
 start of ch 301 - 400 for world cam button menu 
 
-#title place holder#
-$url place holder$
+#Aruba#
+$http://video3.earthcam.com/fecnetwork/4644.flv/hasbahca.m3u8$
 
-#title place holder#
-$url place holder$
+#France - Eiffel Tower#
+$http://video3.earthcam.com/fecnetwork/eiffelcamHD.flv/playlist.m3u8$
 
-#title place holder#
-$url place holder$
+#Hawaii#
+$https://video3.earthcam.com/fecnetwork/5204.flv/chunklist_w281297372.m3u8$
 
-#title place holder#
-$url place holder$
+#Brazil - Copacabana#
+$http://video3.earthcam.com/fecnetwork/6593.flv/playlist.m3u8$
 
-#title place holder#
-$url place holder$
+#Fort Lauderdale Florida#
+$https://videos3.earthcam.com/fecnetwork/windjammerHD2.flv/chunklist_w184562487.m3u8$
 
-#title place holder#
-$url place holder$
+#Miami Beach#
+$https://videos3.earthcam.com/fecnetwork/3273.flv/chunklist_w1637825176.m3u8$
 
-#title place holder#
-$url place holder$
+#New York - Manhattan#
+$http://video3.earthcam.com/fecnetwork/libertyHD1.flv/playlist.m3u8$
 
-#title place holder#
-$url place holder$
+#New York Times Square#
+$https://videos3.earthcam.com/fecnetwork/9974.flv/chunklist_w1347821654.m3u8$
 
-#title place holder#
-$url place holder$
+#Times Square - Crossroads#
+$https://videos3.earthcam.com/fecnetwork/4717.flv/chunklist_w1612558055.m3u8$
 
-#title place holder#
-$url place holder$   10 
+#Times Square Skyline#
+$http://video3.earthcam.com:1935/fecnetwork/hdtimes10.flv/chunklist_w912634094.m3u8$   10 
 
-#title place holder#
-$url place holder$
+#Times Square Skyline2#
+$http://video3.earthcam.com:1935/fecnetwork/4017timessquare.flv/chunklist_w1105786569.m3u8$
 
-#title place holder#
-$url place holder$
+#Times Square Side Angle#
+$http://video3.earthcam.com:1935/fecnetwork/hdtimes11.flv/chunklist_w1954852334.m3u8$
 
-#title place holder#
-$url place holder$
+#New York Sky Cam#
+$http://video3.earthcam.com:1935/fecnetwork/7384.flv/playlist.m3u8$
 
-#title place holder#
-$url place holder$
+#New York Bay#
+$http://video3.earthcam.com:1935/fecnetwork/libertyHD1.flv/chunklist_w1415882554.m3u8$
 
-#title place holder#
-$url place holder$
+#New York Skyline#
+$http://video3.earthcam.com:1935/fecnetwork/4544.flv/playlist.m3u8$
 
-#title place holder#
-$url place holder$
+#New York Statue of Liberty#
+$http://video3.earthcam.com:1935/fecnetwork/statueoflibertyHD.flv/chunklist_w1101621526.m3u8$
 
-#title place holder#
-$url place holder$
+#New York Bridges#
+$http://video3.earthcam.com:1935/fecnetwork/3983.flv/playlist.m3u8$
 
 #title place holder#
 $url place holder$
