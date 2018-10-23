@@ -1126,7 +1126,7 @@ $http://video3.earthcam.com/fecnetwork/AbbeyRoadHD1.flv/playlist.m3u8$
 $http://video3.earthcam.com/fecnetwork/7382.flv/playlist.m3u8$
 
 #Norway - Bergen#
-http://stream.vosskom.no:1935/bt/Festplassen.stream/chunklist_w1948801769.m3u8$
+$http://stream.vosskom.no:1935/bt/Festplassen.stream/chunklist_w1948801769.m3u8$
 
 #Russia - Moscou#
 $http://video3.earthcam.com/fecnetwork/moscowHD1.flv/playlist.m3u8$
