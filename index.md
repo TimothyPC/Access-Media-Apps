@@ -1065,107 +1065,107 @@ $http://video3.earthcam.com:1935/fecnetwork/statueoflibertyHD.flv/chunklist_w110
 #New York Bridges#
 $http://video3.earthcam.com:1935/fecnetwork/3983.flv/playlist.m3u8$
 
-#title place holder#
-$url place holder$
+#New York Street#
+$http://video3.earthcam.com:1935/fecnetwork/4717.flv/playlist.m3u8$
 
-#title place holder#
-$url place holder$
+#New York Road#
+$http://video3.earthcam.com:1935/fecnetwork/6427.flv/playlist.m3u8$
 
-#title place holder#
-$url place holder$  20 
+#Seaside Heights New Jersey#
+$https://videos3.earthcam.com/fecnetwork/6975.flv/chunklist_w294581420.m3u8$  20 
 
-#title place holder#
-$url place holder$
+#Cats Meow1 - New Orleans#
+$https://videos3.earthcam.com/fecnetwork/9106.flv/chunklist_w2037440863.m3u8$
 
-#title place holder#
-$url place holder$
+#Cats Meow2 - New Orleans#
+$https://videos3.earthcam.com/fecnetwork/4281.flv/chunklist_w1641500792.m3u8$
 
-#title place holder#
-$url place holder$
+#Jerusalem#
+$https://videos3.earthcam.com/fecnetwork/7949.flv/chunklist_w849835664.m3u8$
 
-#title place holder#
-$url place holder$
+#Jerusalem - Wall#
+$http://video3.earthcam.com/fecnetwork/7949.flv/playlist.m3u8$
 
-#title place holder#
-$url place holder$
+#Live Fish Tank#
+$http://wse.planeta-online.tv:1935/live/channel_3/livestream.m3u8$
 
-#title place holder#
-$url place holder$
+#Hollywood-California#
+$http://video3.earthcam.com/fecnetwork/lacitytours1.flv/hasbahca.m3u8$
 
-#title place holder#
-$url place holder$
+#San Francisco Bay#
+$http://video3.earthcam.com/fecnetwork/6603.flv/chunklist_w2127467040.m3u8$
 
-#title place holder#
-$url place holder$
+#San Francisco Sky#
+$http://video3.earthcam.com/fecnetwork/6961.flv/chunklist_w430928417.m3u8$
 
-#title place holder#
-$url place holder$
+#Toronto Skyline#
+$http://video3.earthcam.com/fecnetwork/9298.flv/playlist.m3u8$
 
-#title place holder#
-$url place holder$    30 
+#Toronto Skyline 2#
+$https://video3.earthcam.com/fecnetwork/9299.flv/chunklist_w1784008279.m3u8$    30 
 
-#title place holder#
-$url place holder$
+#Virginia Beach#
+$http://video3.earthcam.com/fecnetwork/8048.flv/playlist.m3u8$
 
-#title place holder#
-$url place holder$
+#Miami - Sloppy Joe's#
+$http://wowza.floridakeysmedia.com:8090/sloppyjoes/mp4:sloppyjoes.stream/chunklist_w2119018131.m3u8$
 
-#title place holder#
-$url place holder$
+#Sloppy Joe's Outside#
+$http://wowza2.floridakeysmedia.com:1935/crowdcam/crowdcam.stream/chunklist_w1509771913.m3u8$
 
-#title place holder#
-$url place holder$
+#New Zealand#
+$http://video3.earthcam.com/fecnetwork/9189.flv/playlist.m3u8$
 
-#title place holder#
-$url place holder$
+#Indonesia#
+$http://video3.earthcam.com/fecnetwork/4338.flv/playlist.m3u8$
 
-#title place holder#
-$url place holder$
+#UK#
+$http://video3.earthcam.com/fecnetwork/AbbeyRoadHD1.flv/playlist.m3u8$
 
-#title place holder#
-$url place holder$
+#Ontario - Niagara Falls#
+$http://video3.earthcam.com/fecnetwork/7382.flv/playlist.m3u8$
 
-#title place holder#
-$url place holder$
+#Norway - Bergen#
+http://stream.vosskom.no:1935/bt/Festplassen.stream/chunklist_w1948801769.m3u8$
 
-#title place holder#
-$url place holder$
+#Russia - Moscou#
+$http://video3.earthcam.com/fecnetwork/moscowHD1.flv/playlist.m3u8$
 
-#title place holder#
-$url place holder$    40 
+#Tokyo#
+$http://video3.earthcam.com/fecnetwork/tokyo1.flv/playlist.m3u8$    40 
 
-#title place holder#
-$url place holder$
+#Las Vegas#
+$http://video3.earthcam.com/fecnetwork/eclasvegas.flv/HasBahCa.m3u8$
 
-#title place holder#
-$url place holder$
+#Idaho#
+$http://ktvb-lh.akamaihd.net/i/KTVB_Shows_1@60359/index_1000_av-p.m3u8$
 
-#title place holder#
-$url place holder$
+#New Jersy Falls#
+$http://video3.earthcam.com/fecnetwork/4918.flv/HasBahCa.m3u8$
 
-#title place holder#
-$url place holder$
+#Santa Fe New Mexico#
+$http://video3.earthcam.com/fecnetwork/4831.flv/HasBahCa.m3u8$
 
-#title place holder#
-$url place holder$
+#Texas#
+$http://video3.earthcam.com/fecnetwork/6081.flv/HasBahCa.m3u8$
 
-#title place holder#
-$url place holder$
+#St. Louis Bridge#
+$https://streaming5.mdottraffic.com/rtplive/051807.stream/chunklist_w71529816.m3u8$
 
-#title place holder#
-$url place holder$
+#North Carolina Beach#
+$https://cams.cdn-surfline.com/wsc-east/ec-capehatterascam.stream/chunklist.m3u8$
 
-#title place holder#
-$url place holder$      
+#Dubai#
+$http://videos3.earthcam.com/fecnetwork/5868.flv/playlist.m3u8$      
 
-#title place holder#
-$url place holder$
+#Africa#
+$http://stream.africam.com:1935/ce/ce.stream_source/playlist.m3u8$
 
-#title place holder#
-$url place holder$       50 
+#African Plain#
+$http://stream.africam.com:1935/tm/tm.stream_source/playlist.m3u8$       50 
 
-#title place holder#
-$url place holder$
+#Africa - Water Hole#
+$http://stream.africam.com:1935/nk/nk.stream_source/playlist.m3u8$
 
 #title place holder#
 $url place holder$
