@@ -80,7 +80,6 @@
 
 <!-- Place tv app index here  
 
-        02439562
         22439562
 	112233
 	#ABC#
