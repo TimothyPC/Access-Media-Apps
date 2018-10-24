@@ -1074,6 +1074,9 @@ $http://video3.earthcam.com:1935/fecnetwork/6427.flv/playlist.m3u8$
 #Seaside Heights New Jersey#
 $https://videos3.earthcam.com/fecnetwork/6975.flv/chunklist_w294581420.m3u8$  20 
 
+#NO Bourbon Str#
+$http://videos3.earthcam.com/fecnetwork/4282.flv/playlist.m3u8$
+
 #Cats Meow1 - New Orleans#
 $https://videos3.earthcam.com/fecnetwork/9106.flv/chunklist_w2037440863.m3u8$
 
@@ -1166,9 +1169,6 @@ $http://stream.africam.com:1935/tm/tm.stream_source/playlist.m3u8$       50
 
 #Africa - Water Hole#
 $http://stream.africam.com:1935/nk/nk.stream_source/playlist.m3u8$
-
-#title place holder#
-$url place holder$
 
 #title place holder#
 $url place holder$
