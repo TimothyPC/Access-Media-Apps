@@ -517,17 +517,17 @@ $http://linkbaru.com/iptv/001.m3u8$    10
 #Fashion Tv#
 $http://linkbaru.com/iptv/005.m3u8$
 
-#title place holder#
-$url place holder$
+#HBO#
+$http://161.0.157.5/PLTV/88888888/224/3221226127/index.m3u8$
 
-#title place holder#
-$url place holder$
+#Cinemax Prime#
+$http://161.0.157.5/PLTV/88888888/224/3221226834/index.m3u8$
 
-#title place holder#
-$url place holder$
+#My TV#
+$http://161.0.157.5/PLTV/88888888/224/3221226727/index.m3u8$
 
-#title place holder#
-$url place holder$
+#Fox Cinema#
+$http://161.0.157.5/PLTV/88888888/224/3221226793/index.m3u8$
 
 #title place holder#
 $url place holder$
@@ -728,14 +728,14 @@ $http://dqsz3cincv704.cloudfront.net/pe/smil:canal_atv.smil/chunklist_b1056768.m
 #Hoy Jugamos#
 $http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on?iptvgratis?chile.m3u8$
 
-#title place holder#
-$url place holder$
+#Universal TV#
+$http://161.0.157.5/PLTV/88888888/224/3221226828/index.m3u8$
 
-#title place holder#
-$url place holder$
+#Fox Movies#
+$http://161.0.157.5/PLTV/88888888/224/3221226321/index.m3u8$
 
-#title place holder#
-$url place holder$
+#Spanish MTV#
+$http://161.0.157.5/PLTV/88888888/224/3221226828/index.m3u8$
 
 #title place holder#
 $url place holder$  10 
@@ -1321,11 +1321,11 @@ Start of Sport Menu
 #Sports Cast#
 $http://sdfsaew.tk/nba1.php$
 
-#title place holder#
-$url place holder$
+#Encore Sports#
+$http://sdfsaew.tk/nba2.php$
 
-#title place holder#
-$url place holder$
+#Sports Max#
+$http://161.0.157.5/PLTV/88888888/224/3221226777/index.m3u8$
 
 #title place holder#
 $url place holder$
