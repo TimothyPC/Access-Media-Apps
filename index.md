@@ -484,8 +484,8 @@ $http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-151/chunkl
 
 start of ch 127 - 200 for usa button menu 
 
-#Ad Sports 2#
-$http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8$
+#Bravo#
+$http://161.0.157.5/PLTV/88888888/224/3221226804/index.m3u8$
 
 #Dream Tv#
 $http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8$
@@ -529,20 +529,20 @@ $http://161.0.157.5/PLTV/88888888/224/3221226727/index.m3u8$
 #Fox Cinema#
 $http://161.0.157.5/PLTV/88888888/224/3221226793/index.m3u8$
 
-#title place holder#
-$url place holder$
+#Reggae TV#
+$http://161.0.157.5/PLTV/88888888/224/3221226737/index.m3u8$
 
-#title place holder#
-$url place holder$
+#Hype TV#
+$http://161.0.157.5/PLTV/88888888/224/3221226726/index.m3u8$
 
-#title place holder#
-$url place holder$
+#BoomBox#
+$http://161.0.157.5/PLTV/88888888/224/3221226332/index.m3u8$
 
-#title place holder#
-$url place holder$
+#Court#
+$http://161.0.157.5/PLTV/88888888/224/3221226845/index.m3u8$
 
-#title place holder#
-$url place holder$   20
+#Live Love#
+$http://161.0.157.5/PLTV/88888888/224/3221226847/index.m3u8$   20
 
 #title place holder#
 $url place holder$
@@ -1327,8 +1327,8 @@ $http://sdfsaew.tk/nba2.php$
 #Sports Max#
 $http://161.0.157.5/PLTV/88888888/224/3221226777/index.m3u8$
 
-#title place holder#
-$url place holder$
+#AD Sports 2#
+$http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8$
 
 #title place holder#
 $url place holder$
