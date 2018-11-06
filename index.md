@@ -1319,10 +1319,10 @@ Start of Sport Menu
 
 
 #Sports Cast#
-$http://sdfsaew.tk/nba1.php$
+$http://sdfsaew.tk/nba1.m3u8$
 
 #Encore Sports#
-$http://sdfsaew.tk/nba2.php$
+$http://sdfsaew.tk/nba2.m3u8$
 
 #Sports Max#
 $http://161.0.157.5/PLTV/88888888/224/3221226777/index.m3u8$
@@ -1330,9 +1330,9 @@ $http://161.0.157.5/PLTV/88888888/224/3221226777/index.m3u8$
 #AD Sports 2#
 $http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8$
 
-#title place holder#
-$url place holder$
-
+#ESPN2#
+$http://161.0.157.8/PLTV/88888888/224/3221226881/index.m3u8$
+	
 #title place holder#
 $url place holder$
 
