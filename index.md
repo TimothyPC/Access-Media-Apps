@@ -86,7 +86,7 @@
         $http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8$
 	
 	#MSNBC#
-        $http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/master.m3u8$
+        $http://185.152.66.56/MSNBC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjAvMjAxOCAxMDoxNjowNCBBTSZoYXNoX3ZhbHVlPU5ERC84OVRZSlZTKzZUYUUwL1Y4akE9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=$
        
 	#CBSN#
         $http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8$
@@ -143,7 +143,7 @@
 	$http://80.80.160.168/live/7/live.m3u8$
 	
 	#ESPN#
-	$http://80.80.160.168/live/6/live.m3u8$
+	$http://espn.tmedia.me/cache/espn1.m3u8$
 	
 	#Investigation Discovery#
 	$http://80.80.160.168/live/5/live.m3u8$
@@ -1330,11 +1330,11 @@ $http://161.0.157.5/PLTV/88888888/224/3221226777/index.m3u8$
 #AD Sports 2#
 $http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8$
 
+#ESPN#
+$http://espn.tmedia.me/cache/espn1.m3u8$
+
 #ESPN2#
 $http://161.0.157.8/PLTV/88888888/224/3221226881/index.m3u8$
-	
-#title place holder#
-$url place holder$
 
 #title place holder#
 $url place holder$
