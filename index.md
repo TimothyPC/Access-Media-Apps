@@ -505,8 +505,6 @@ $url place holder$
 #title place holder#
 $url place holder
 	
-#title place holder#
-$url place holder$
 
 #title place holder#
 $url place holder$
