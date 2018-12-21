@@ -500,19 +500,16 @@ $http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired
 $http://161.0.157.38/PLTV/88888888/224/3221226299/index.m3u8$
 
 #title place holder#
-        $url place holder$
-
+$url place holder$
 
 #title place holder#
-        $url place holder
-	
+$url place holder
 	
 #title place holder#
-        $url place holder$
+$url place holder$
 
-
- #title place holder#
-        $url place holder$
+#title place holder#
+$url place holder$
 
 #Food Network#
 $http://161.0.157.38/PLTV/88888888/224/3221226201/index.m3u8$
