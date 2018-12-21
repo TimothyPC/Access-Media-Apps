@@ -499,14 +499,15 @@ $http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired
 #Disney Channel HD#
 $http://161.0.157.38/PLTV/88888888/224/3221226299/index.m3u8$
 
-#Disney Jr.#
-$http://eirking.pro:8080/live/exchange/sGFHK47UC6/388.m3u8$
+#title place holder#
+        $url place holder$
 
-#Home And Health#
-$http://eirking.pro:8080/live/exchange/sGFHK47UC6/33.m3u8$
 
-#USA Network#
-$http://eirking.pro:8080/live/exchange/sGFHK47UC6/453.m3u8$
+#title place holder#
+        $url place holder
+	
+	
+
 
 #History Channel#
 $http://eirking.pro:8080/live/exchange/sGFHK47UC6/34.m3u8$
