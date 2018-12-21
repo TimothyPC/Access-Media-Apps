@@ -145,20 +145,20 @@
 	#ESPN#
 	$http://espn.tmedia.me/cache/espn1.m3u8$
 	
-	#Investigation Discovery#
-	$http://80.80.160.168/live/5/live.m3u8$
+	#title place holder#
+        $url place holder$
 	
-	#Planet Green#
-	$http://80.80.160.168/live/4/live.m3u8$
+	#title place holder#
+        $url place holder$
 	
 	#Travel Channel#
 	$http://80.80.160.168/live/3/live.m3u8$
 	
-	#TLC#
-	$http://80.80.160.168/live/2/live.m3u8$
+	#title place holder#
+        $url place holder$
 	
-	#Animal Planet#
-	$http://80.80.160.168/live/1/live.m3u8$
+	#title place holder#
+        $url place holder$
 	
 	#Science#
 	$http://80.80.160.168/live/9/live.m3u8$
@@ -166,9 +166,11 @@
 	#Adulswim#
 	$http://adultswimhls-i.akamaihd.net/hls/live/238460/adultswim/main/1/master.m3u8$
 	
-	#God Tv#
-	$http://ooyalahd2-f.akamaihd.net/i/godtv01_delivery@17341/master.m3u8$
+	#title place holder#
+        $url place holder$
 	
+ 
+ 
 	#Bravo#
 	$http://161.0.157.7/PLTV/88888888/224/3221226804/03.m3u8$
 	
@@ -223,9 +225,10 @@
 	#Kool Tv#
 	$http://173.199.158.79:1935/roku/myStream/playlist.m3u8$
 	
-	#Live Fish Tank#
-	$http://wse.planeta-online.tv:1935/live/channel_3/chunklist.m3u8$
-	
+	#title place holder#
+        $url place holder$
+
+
 	#Black Cinema#
 	$http://stitcher.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true$
 	
