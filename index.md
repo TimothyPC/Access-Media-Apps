@@ -136,11 +136,11 @@
 	#Horror Tv#
 	$http://170.178.189.66:1935/live/Stream1/playlist.m3u8$
 	
-	#    #
-	$    $
+	#title place holder#
+        $url place holder$
 	
-	#Showtime#
-	$http://80.80.160.168/live/7/live.m3u8$
+	#title place holder#
+        $url place holder$
 	
 	#ESPN#
 	$http://espn.tmedia.me/cache/espn1.m3u8$
