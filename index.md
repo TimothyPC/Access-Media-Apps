@@ -507,10 +507,9 @@ $http://161.0.157.38/PLTV/88888888/224/3221226299/index.m3u8$
         $url place holder
 	
 	
+#title place holder#
+        $url place holder$
 
-
-#History Channel#
-$http://eirking.pro:8080/live/exchange/sGFHK47UC6/34.m3u8$
 
 #Food Network#
 $http://161.0.157.38/PLTV/88888888/224/3221226201/index.m3u8$
