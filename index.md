@@ -100,20 +100,20 @@
 	#QVC#
 	$http://qvclvp2.mmdlive.lldns.net/qvclvp2/9aa645c89c5447a8937537011e8f8d0d/manifest.m3u8$
 	
-	#MeTV#
-	$http://atlas.its.virginia.edu:8088/hls/m3u8/METV.m3u8$
+	#Animal Planet#
+	$http://161.0.157.38/PLTV/88888888/224/3221226253/index.m3u8$
 	
 	#NASA TV#
 	$http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8$
 	
 	#Classic Tv#
-	$http://nimble.dashmedia.tv/onestudio/classictv/playlist.m3u8$
+	$http://stmv2.euroti.com.br:1935/classique/classique/live.m3u8$
 	
 	#Kids Tv#
 	$http://stitcher.pluto.tv/stitch/hls/channel/51c75f7bb6f26ba1cd00002f/master.m3u8?deviceType=%2C%2C&deviceMake=&deviceModel=&sid=c8b023af-ff3b-4fb6-87f0-4af929510c3d&deviceId=29556502-e2a5-45de-8deb-3b3dfa36b936_e62c9abb601b4ed5&deviceVersion=7.1.1_25&appVersion=3.5.1&deviceDNT=0&userId=&advertisingId=6e7a218c-1bf7-46bf-b486-0902a3cd5a1c&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high$
-
-         #OWN#
-	$http://w3.cdn.anvato.net/live/ephemeral/3QA1gOwdRzqhnwPBUewI5VY7Yd9pnkvb/owny/1296k/index.m3u8$
+	
+         #Trinity Tv#
+	$http://161.0.157.38/PLTV/88888888/224/3221226638/index.m3u8$
 	
 	#MTV#
 	$http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8$
@@ -125,7 +125,7 @@
 	$http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8?play-only=primary$
 	
 	#Bloomberg#
-	$http://bblive-liveproduseast.hs.llnwd.net/btv/desktop/us_live.m3u8$
+	$https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8$
 	
 	#Sony Movie Network#
 	$http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3u8?sd=10&rebase=on$
@@ -136,8 +136,8 @@
 	#Horror Tv#
 	$http://170.178.189.66:1935/live/Stream1/playlist.m3u8$
 	
-	#Discovery Channel#
-	$http://80.80.160.168/live/8/live.m3u8$
+	Discovery Channel
+	http://80.80.160.168/live/8/live.m3u8
 	
 	#Showtime#
 	$http://80.80.160.168/live/7/live.m3u8$
@@ -494,7 +494,7 @@ $http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8$
 $http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8$
 
 #Disney Channel HD#
-$http://eirking.pro:8080/live/exchange/sGFHK47UC6/20.m3u8$
+$http://161.0.157.38/PLTV/88888888/224/3221226299/index.m3u8$
 
 #Disney Jr.#
 $http://eirking.pro:8080/live/exchange/sGFHK47UC6/388.m3u8$
@@ -509,13 +509,13 @@ $http://eirking.pro:8080/live/exchange/sGFHK47UC6/453.m3u8$
 $http://eirking.pro:8080/live/exchange/sGFHK47UC6/34.m3u8$
 
 #Food Network#
-$http://eirking.pro:8080/live/exchange/sGFHK47UC6/1652.m3u8$
+$http://161.0.157.38/PLTV/88888888/224/3221226201/index.m3u8$
 
 #NBC#
-$http://linkbaru.com/iptv/001.m3u8$    10 
+$http://161.0.157.51/PLTV/88888888/224/3221227040/01.m3u8$ 10 
 
 #Fashion Tv#
-$http://linkbaru.com/iptv/005.m3u8$
+$http://lb.streaming.sk/fashiontv/stream/playlist.m3u8$
 
 #HBO#
 $http://161.0.157.5/PLTV/88888888/224/3221226127/index.m3u8$
