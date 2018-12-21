@@ -136,8 +136,8 @@
 	#Horror Tv#
 	$http://170.178.189.66:1935/live/Stream1/playlist.m3u8$
 	
-	Discovery Channel
-	http://80.80.160.168/live/8/live.m3u8
+	#    #
+	$    $
 	
 	#Showtime#
 	$http://80.80.160.168/live/7/live.m3u8$
