@@ -169,8 +169,6 @@
 	#title place holder#
         $url place holder$
 	
- 
- 
 	#Bravo#
 	$http://161.0.157.7/PLTV/88888888/224/3221226804/03.m3u8$
 	
