@@ -100,8 +100,8 @@
 	#QVC#
 	$http://qvclvp2.mmdlive.lldns.net/qvclvp2/9aa645c89c5447a8937537011e8f8d0d/manifest.m3u8$
 	
-	#Animal Planet#
-	$http://161.0.157.38/PLTV/88888888/224/3221226253/index.m3u8$
+	#MeTV#
+	$url place holder$
 	
 	#NASA TV#
 	$http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8$
@@ -112,8 +112,8 @@
 	#Kids Tv#
 	$http://stitcher.pluto.tv/stitch/hls/channel/51c75f7bb6f26ba1cd00002f/master.m3u8?deviceType=%2C%2C&deviceMake=&deviceModel=&sid=c8b023af-ff3b-4fb6-87f0-4af929510c3d&deviceId=29556502-e2a5-45de-8deb-3b3dfa36b936_e62c9abb601b4ed5&deviceVersion=7.1.1_25&appVersion=3.5.1&deviceDNT=0&userId=&advertisingId=6e7a218c-1bf7-46bf-b486-0902a3cd5a1c&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high$
 	
-         #Trinity Tv#
-	$http://161.0.157.38/PLTV/88888888/224/3221226638/index.m3u8$
+         #OWN#
+	$url place holder$
 	
 	#MTV#
 	$http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8$
@@ -136,28 +136,28 @@
 	#Horror Tv#
 	$http://170.178.189.66:1935/live/Stream1/playlist.m3u8$
 	
-	#title place holder#
+	#Discovery Channel#
         $url place holder$
 	
-	#title place holder#
+	#Showtime#
         $url place holder$
 	
 	#ESPN#
 	$http://espn.tmedia.me/cache/espn1.m3u8$
 	
-	#title place holder#
+	#Investigation Discovery#
         $url place holder$
 	
-	#title place holder#
+	#Planet Green#
         $url place holder$
 	
 	#Travel Channel#
 	$http://80.80.160.168/live/3/live.m3u8$
 	
-	#title place holder#
+	#TLC#
         $url place holder$
 	
-	#title place holder#
+	#Animal Planet#
         $url place holder$
 	
 	#Science#
@@ -166,7 +166,7 @@
 	#Adulswim#
 	$http://adultswimhls-i.akamaihd.net/hls/live/238460/adultswim/main/1/master.m3u8$
 	
-	#title place holder#
+	#God Tv#
         $url place holder$
 	
 	#Bravo#
@@ -223,10 +223,9 @@
 	#Kool Tv#
 	$http://173.199.158.79:1935/roku/myStream/playlist.m3u8$
 	
-	#title place holder#
+	#Live Fish Tank#
         $url place holder$
 
- 
 	#Black Cinema#
 	$http://stitcher.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true$
 	
@@ -485,8 +484,8 @@ $http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-151/chunkl
 
 start of ch 127 - 200 for usa button menu 
 
-#Bravo#
-$http://161.0.157.5/PLTV/88888888/224/3221226804/index.m3u8$
+#Trinity Tv#
+$http://161.0.157.38/PLTV/88888888/224/3221226638/index.m3u8$
 
 #Dream Tv#
 $http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8$
@@ -497,21 +496,18 @@ $http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired
 #Disney Channel HD#
 $http://161.0.157.38/PLTV/88888888/224/3221226299/index.m3u8$
 
-#title place holder#
+#Disney Jr.#
 $url place holder$
 
-#title place holder#
+#Home and Health#
 $url place holder$
 	
-#title place holder#
+#USA Network#
 $url place holder$
 
-#title place holder#
+#History Channel#
 $url place holder$
 	
-#title place holder#
-$url place holder$
-
 #Food Network#
 $http://161.0.157.38/PLTV/88888888/224/3221226201/index.m3u8$
 
@@ -544,7 +540,10 @@ $http://161.0.157.5/PLTV/88888888/224/3221226332/index.m3u8$
 $http://161.0.157.5/PLTV/88888888/224/3221226845/index.m3u8$
 
 #Live Love#
-$http://161.0.157.5/PLTV/88888888/224/3221226847/index.m3u8$   20
+$http://161.0.157.5/PLTV/88888888/224/3221226847/index.m3u8$   
+
+#title place holder#  20
+$url place holder$
 
 #title place holder#
 $url place holder$
