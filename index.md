@@ -86,7 +86,7 @@
         $http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8$
 	
 	#MSNBC#
-        $http://185.152.66.56/MSNBC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjAvMjAxOCAxMDoxNjowNCBBTSZoYXNoX3ZhbHVlPU5ERC84OVRZSlZTKzZUYUUwL1Y4akE9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=$
+        $http://161.0.157.9/PLTV/88888888/224/3221227040/index.m3u8$
        
 	#CBSN#
         $http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8$
@@ -158,7 +158,7 @@
         $url place holder$
 	
 	#Animal Planet#
-        $url place holder$
+        $http://161.0.157.5/PLTV/88888888/224/3221226253/index.m3u8$
 	
 	#Science#
 	$http://80.80.160.168/live/9/live.m3u8$
@@ -167,7 +167,7 @@
 	$http://adultswimhls-i.akamaihd.net/hls/live/238460/adultswim/main/1/master.m3u8$
 	
 	#God Tv#
-        $url place holder$
+        $http://161.0.157.9/PLTV/88888888/224/3221226847/index.m3u8$
 	
 	#Bravo#
 	$http://161.0.157.7/PLTV/88888888/224/3221226804/03.m3u8$
