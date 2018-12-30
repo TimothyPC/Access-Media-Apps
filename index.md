@@ -101,7 +101,7 @@
 	$http://qvclvp2.mmdlive.lldns.net/qvclvp2/9aa645c89c5447a8937537011e8f8d0d/manifest.m3u8$
 	
 	#MeTV#
-	$url place holder$
+	$http://161.0.157.9/PLTV/88888888/224/3221226727/index.m3u8$
 	
 	#NASA TV#
 	$http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8$
@@ -224,7 +224,7 @@
 	$http://173.199.158.79:1935/roku/myStream/playlist.m3u8$
 	
 	#Live Fish Tank#
-        $url place holder$
+        $http://161.0.157.9/PLTV/88888888/224/3221226811/index.m3u8$
 
 	#Black Cinema#
 	$http://stitcher.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true$
