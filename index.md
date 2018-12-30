@@ -542,95 +542,105 @@ $http://161.0.157.5/PLTV/88888888/224/3221226845/index.m3u8$
 #Live Love#
 $http://161.0.157.5/PLTV/88888888/224/3221226847/index.m3u8$   
 
-#title place holder#  20
-$url place holder$
 
-#title place holder#
-$url place holder$
+20
 
-#title place holder#
-$url place holder$
 
-#title place holder#
-$url place holder$
+#CNN#
+$http://161.0.157.9/PLTV/88888888/224/3221226845/index.m3u8$
 
-#title place holder#
-$url place holder$
+#Mercy & Truth Tv#
+$http://161.0.157.9/PLTV/88888888/224/3221226847/index.m3u8$
 
-#title place holder#
-$url place holder$
+#Catch#
+$http://161.0.157.9/PLTV/88888888/224/3221226865/index.m3u8$
 
-#title place holder#
-$url place holder$
+#Catch 2#
+$http://161.0.157.9/PLTV/88888888/224/3221226874/index.m3u8$
 
-#title place holder#
-$url place holder$
 
-#title place holder#
-$url place holder$
+#CNBC World#
+$http://161.0.157.9/PLTV/88888888/224/3221227005/index.m3u8$
 
-#title place holder#
-$url place holder$
+#Premier Fox#
+$http://161.0.157.9/PLTV/88888888/224/3221227013/index.m3u8$
 
-#title place holder#
-$url place holder$     30 
+#NBC#
+$http://161.0.157.9/PLTV/88888888/224/3221227040/index.m3u8$
 
-#title place holder#
-$url place holder$
+#CBS 48#
+$http://161.0.157.9/PLTV/88888888/224/3221227041/index.m3u8$
 
-#title place holder#
-$url place holder$
+#Disney Channel#
+$http://161.0.157.6/PLTV/88888888/224/3221226299/index.m3u8$
 
-#title place holder#
-$url place holder$
+#Fox Movies#
+$http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8?fluxustv.m3u8$
 
-#title place holder#
-$url place holder$
+#Fox Comedy#
+$http://161.0.157.9/PLTV/88888888/224/3221226800/03.m3u8$
 
-#title place holder#
-$url place holder$
+#The Gift & Prive#
+$http://z5ams.akamaized.net/andprivehd/tracks-v1a1/index.m3u8$
 
-#title place holder#
-$url place holder$
+#Sony Movie Channel#
+$http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3u8?sd=10&rebase=on$
 
-#title place holder#
-$url place holder$
+#Hollywood Movies 11 Action#
+$http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8$
 
-#title place holder#
-$url place holder$
+#Hollywood Movies 8 Horror#
+$http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8$
 
-#title place holder#
-$url place holder$
+#Hollywood 7 Adventure#
+$http://aldirect.hls.huya.com/huyalive/28466698-2689659358-11551998979990355968-2789274580-10057-A-0-1_1200.m3u8$
 
-#title place holder#
-$url place holder$     40
+#Hollywood Movies 5 #
+$http://ws4.streamhls.huya.com/huyalive/29106097-2689279104-11550365801496182784-2777026902-10057-A-0-1_1200/playlist.m3u8$
 
-#title place holder#
-$url place holder$
+#Hollywood Movies 4 Action#
+$http://ws4.streamhls.huya.com/huyalive/29106097-2689448236-11551092217904889856-2789274572-10057-A-0-1_1200/playlist.m3u8?thebestfreeenglishchannels.m3u8$
 
-#title place holder#
-$url place holder$
+#&Flix#
+$http://z5ams.akamaized.net/andflixhd/tracks-v1a1/index.m3u8$
 
-#title place holder#
-$url place holder$
+#AMC Network#
+$http://adultswimhls-i.akamaihd.net/hls/live/238460/adultswim/main/1/master_Layer5.m3u8$
 
-#title place holder#
-$url place holder$
+#Aqua Teens#
+$https://adultswim-vodlive.cdn.turner.com/live/aqua-teen/stream.m3u8$
 
-#title place holder#
-$url place holder$
+#Black Jesus (Comedy)#
+$http://adultswim-vodlive.cdn.turner.com/live/black-jesus/stream.m3u8$
 
-#title place holder#
-$url place holder$
+#Metalocalypse (Anime)#
+$http://adultswim-vodlive.cdn.turner.com/live/metalocalypse/stream.m3u8$
 
-#title place holder#
-$url place holder$
+#Adventure Tv#
+$http://stitcher.pluto.tv/stitch/hls/channel/5938876b78d8d9c074c3c657/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high$
 
-#title place holder#
-$url place holder$      
+#Action Tv#
+$http://stitcher.pluto.tv/stitch/hls/channel/561d7d484dc7c8770484914a/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high$
 
-#title place holder#
-$url place holder$
+#AKC Tv (Pet Shows)#
+$https://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8$
+
+#Life Tv#
+$http://178.132.6.97/uzivo/lifetvesp976/tracks-v1a1/mono.m3u8$
+
+#Zee World#
+$http://161.0.157.6/PLTV/88888888/224/3221226542/index.m3u8$
+
+#Fox#
+$http://161.0.157.9/PLTV/88888888/224/3221227013/index.m3u8$
+
+#Fishing Channel#
+$http://161.0.157.9/PLTV/88888888/224/3221226811/index.m3u8$
+
+#My Tv#
+$http://161.0.157.9/PLTV/88888888/224/3221226727/index.m3u8$
+
+
 
 #title place holder#
 $url place holder$        50 
