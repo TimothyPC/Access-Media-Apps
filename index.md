@@ -1371,11 +1371,12 @@ $http://vapi.vaders.tv/play/2454.m3u8?token=eyJ1c2VybmFtZSI6ImJveWVya2V2IiwicGFz
 #Fuse#
 $http://vapi.vaders.tv/play/56452.m3u8?token=eyJ1c2VybmFtZSI6ImJveWVya2V2IiwicGFzc3dvcmQiOiJ3czIyMzJidSJ9$
 
-#Sky Sports F1 HD#
-$http://vapi.vaders.tv/play/2483.ts?token=eyJ1c2VybmFtZSI6ImJveWVya2V2IiwicGFzc3dvcmQiOiJ3czIyMzJidSJ9$
 
-#Sportsnet 360 HD#
-$http://vapi.vaders.tv/play/2669.ts?token=eyJ1c2VybmFtZSI6ImJveWVya2V2IiwicGFzc3dvcmQiOiJ3czIyMzJidSJ9$
+#title place holder#
+$url place holder$
+
+#title place holder#
+$url place holder$
 
 #title place holder#
 $url place holder$
