@@ -497,16 +497,16 @@ $http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired
 $http://161.0.157.38/PLTV/88888888/224/3221226299/index.m3u8$
 
 #Disney Jr.#
-$url place holder$
+$http://vapi.vaders.tv/play/39421.m3u8?token=eyJ1c2VybmFtZSI6ImJveWVya2V2IiwicGFzc3dvcmQiOiJ3czIyMzJidSJ9$
 
 #Home and Health#
 $url place holder$
 	
 #USA Network#
-$url place holder$
+$http://vapi.vaders.tv/play/2462.m3u8?token=eyJ1c2VybmFtZSI6ImJveWVya2V2IiwicGFzc3dvcmQiOiJ3czIyMzJidSJ9$
 
 #History Channel#
-$url place holder$
+$http://vapi.vaders.tv/play/2915.m3u8?token=eyJ1c2VybmFtZSI6ImJveWVya2V2IiwicGFzc3dvcmQiOiJ3czIyMzJidSJ9$
 	
 #Food Network#
 $http://161.0.157.38/PLTV/88888888/224/3221226201/index.m3u8$
