@@ -500,7 +500,7 @@ $http://161.0.157.38/PLTV/88888888/224/3221226299/index.m3u8$
 $http://vapi.vaders.tv/play/39421.m3u8?token=eyJ1c2VybmFtZSI6ImJveWVya2V2IiwicGFzc3dvcmQiOiJ3czIyMzJidSJ9$
 
 #Home and Health#
-$url place holder$
+$http://vapi.vaders.tv/play/35001.m3u8?token=eyJ1c2VybmFtZSI6ImJveWVya2V2IiwicGFzc3dvcmQiOiJ3czIyMzJidSJ9$
 	
 #USA Network#
 $http://vapi.vaders.tv/play/2462.m3u8?token=eyJ1c2VybmFtZSI6ImJveWVya2V2IiwicGFzc3dvcmQiOiJ3czIyMzJidSJ9$
@@ -640,82 +640,81 @@ $http://161.0.157.9/PLTV/88888888/224/3221226811/index.m3u8$
 #My Tv#
 $http://161.0.157.9/PLTV/88888888/224/3221226727/index.m3u8$
 
+#A&E#
+$http://vapi.vaders.tv/play/2463.ts?token=eyJ1c2VybmFtZSI6ImJveWVya2V2IiwicGFzc3dvcmQiOiJ3czIyMzJidSJ9$
 
+#AMC#
+$http://vapi.vaders.tv/play/2436.m3u8?token=eyJ1c2VybmFtZSI6ImJveWVya2V2IiwicGFzc3dvcmQiOiJ3czIyMzJidSJ9$
 
-#title place holder#
-$url place holder$        50 
+#CW Network#
+$http://vapi.vaders.tv/play/8198.m3u8?token=eyJ1c2VybmFtZSI6ImJveWVya2V2IiwicGFzc3dvcmQiOiJ3czIyMzJidSJ9$
 
-#title place holder#
-$url place holder$
+#Discovery Science#
+$http://vapi.vaders.tv/play/54628.m3u8?token=eyJ1c2VybmFtZSI6ImJveWVya2V2IiwicGFzc3dvcmQiOiJ3czIyMzJidSJ9$
 
-#title place holder#
-$url place holder$
+#FX#
+$http://vapi.vaders.tv/play/2451.m3u8?token=eyJ1c2VybmFtZSI6ImJveWVya2V2IiwicGFzc3dvcmQiOiJ3czIyMzJidSJ9$
 
-#title place holder#
-$url place holder$
+#Hallmark Channel#
+$http://vapi.vaders.tv/play/2453.m3u8?token=eyJ1c2VybmFtZSI6ImJveWVya2V2IiwicGFzc3dvcmQiOiJ3czIyMzJidSJ9$
 
-#title place holder#
-$url place holder$
+#HBO Family#
+$http://vapi.vaders.tv/play/59092.m3u8?token=eyJ1c2VybmFtZSI6ImJveWVya2V2IiwicGFzc3dvcmQiOiJ3czIyMzJidSJ9$
 
-#title place holder#
-$url place holder$
+#HBO Comedy HD#
+$http://vapi.vaders.tv/play/7860.m3u8?token=eyJ1c2VybmFtZSI6ImJveWVya2V2IiwicGFzc3dvcmQiOiJ3czIyMzJidSJ9$
 
-#title place holder#
-$url place holder$
+#HBO Signature HD#
+$http://vapi.vaders.tv/play/7857.m3u8?token=eyJ1c2VybmFtZSI6ImJveWVya2V2IiwicGFzc3dvcmQiOiJ3czIyMzJidSJ9$
 
-#title place holder#
-$url place holder$
+#HBO Zone HD#
+$http://vapi.vaders.tv/play/7944.m3u8?token=eyJ1c2VybmFtZSI6ImJveWVya2V2IiwicGFzc3dvcmQiOiJ3czIyMzJidSJ9$
 
-#title place holder#
-$url place holder$
+#Cinemax#
+$http://vapi.vaders.tv/play/7936.m3u8?token=eyJ1c2VybmFtZSI6ImJveWVya2V2IiwicGFzc3dvcmQiOiJ3czIyMzJidSJ9$
 
-#title place holder#
-$url place holder$
+#Cinemax 5 Star#
+$http://vapi.vaders.tv/play/7947.m3u8?token=eyJ1c2VybmFtZSI6ImJveWVya2V2IiwicGFzc3dvcmQiOiJ3czIyMzJidSJ9$
 
-#title place holder#
-$url place holder$      60 
+#Cinemax Actionmax#
+$http://vapi.vaders.tv/play/7946.m3u8?token=eyJ1c2VybmFtZSI6ImJveWVya2V2IiwicGFzc3dvcmQiOiJ3czIyMzJidSJ9$
 
-#title place holder#
-$url place holder$
+#Cinemax Moremax#
+$http://vapi.vaders.tv/play/7945.m3u8?token=eyJ1c2VybmFtZSI6ImJveWVya2V2IiwicGFzc3dvcmQiOiJ3czIyMzJidSJ9$
 
-#title place holder#
-$url place holder$
+#Nat Geo HD#
+$http://vapi.vaders.tv/play/2754.m3u8?token=eyJ1c2VybmFtZSI6ImJveWVya2V2IiwicGFzc3dvcmQiOiJ3czIyMzJidSJ9$
 
-#title place holder#
-$url place holder$
+#Nick HD#
+$http://vapi.vaders.tv/play/2460.ts?token=eyJ1c2VybmFtZSI6ImJveWVya2V2IiwicGFzc3dvcmQiOiJ3czIyMzJidSJ9$
 
-#title place holder#
-$url place holder$
+#Oxygen HD#
+$http://vapi.vaders.tv/play/40685.m3u8?token=eyJ1c2VybmFtZSI6ImJveWVya2V2IiwicGFzc3dvcmQiOiJ3czIyMzJidSJ9$
 
-#title place holder#
-$url place holder$
+#Showtime 2 HD#
+$http://vapi.vaders.tv/play/39638.m3u8?token=eyJ1c2VybmFtZSI6ImJveWVya2V2IiwicGFzc3dvcmQiOiJ3czIyMzJidSJ9$
 
-#title place holder#
-$url place holder$
+#Showtime Extreme HD#
+$http://vapi.vaders.tv/play/64457.m3u8?token=eyJ1c2VybmFtZSI6ImJveWVya2V2IiwicGFzc3dvcmQiOiJ3czIyMzJidSJ9$
 
-#title place holder#
-$url place holder$
+#Starz HD#
+$http://vapi.vaders.tv/play/39873.m3u8?token=eyJ1c2VybmFtZSI6ImJveWVya2V2IiwicGFzc3dvcmQiOiJ3czIyMzJidSJ9$
 
-#title place holder#
-$url place holder$
+#Starz Western HD#
+$http://vapi.vaders.tv/play/79264.m3u8?token=eyJ1c2VybmFtZSI6ImJveWVya2V2IiwicGFzc3dvcmQiOiJ3czIyMzJidSJ9$
 
-#title place holder#
-$url place holder$
+#SYFY HD#
+$http://vapi.vaders.tv/play/2458.m3u8?token=eyJ1c2VybmFtZSI6ImJveWVya2V2IiwicGFzc3dvcmQiOiJ3czIyMzJidSJ9$
 
-#title place holder#
-$url place holder$      70 
+#TBS#
+$http://vapi.vaders.tv/play/2461.m3u8?token=eyJ1c2VybmFtZSI6ImJveWVya2V2IiwicGFzc3dvcmQiOiJ3czIyMzJidSJ9$
 
-#title place holder#
-$url place holder$
+#TNT#
+$http://vapi.vaders.tv/play/2459.m3u8?token=eyJ1c2VybmFtZSI6ImJveWVya2V2IiwicGFzc3dvcmQiOiJ3czIyMzJidSJ9$
 
-#title place holder#
-$url place holder$
+#Tru Tv#
+$http://vapi.vaders.tv/play/2466.m3u8?token=eyJ1c2VybmFtZSI6ImJveWVya2V2IiwicGFzc3dvcmQiOiJ3czIyMzJidSJ9$
 
-#title place holder#
-$url place holder$   
-
-#title place holder#
-$url place holder$  74 
 
 
 
