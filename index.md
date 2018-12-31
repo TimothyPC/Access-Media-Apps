@@ -1319,13 +1319,7 @@ $url place holder$
 $url place holder$
 
 #title place holder#
-$url place holder$
-
-#title place holder#
-$url place holder$
-
-#title place holder#
-$url place holder$   100 
+$url place holder$       98
 
 
 Start of Sport Menu
@@ -1376,6 +1370,13 @@ $http://vapi.vaders.tv/play/2454.m3u8?token=eyJ1c2VybmFtZSI6ImJveWVya2V2IiwicGFz
 
 #Fuse#
 $http://vapi.vaders.tv/play/56452.m3u8?token=eyJ1c2VybmFtZSI6ImJveWVya2V2IiwicGFzc3dvcmQiOiJ3czIyMzJidSJ9$
+
+
+title place holder#
+$url place holder$
+
+#title place holder#
+$url place holder$  
 
 #title place holder#
 $url place holder$
