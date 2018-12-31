@@ -86,7 +86,7 @@
         $http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8$
 	
 	#MSNBC#
-        $http://161.0.157.9/PLTV/88888888/224/3221227040/index.m3u8$
+        $http://vapi.vaders.tv/play/3082.m3u8?token=eyJ1c2VybmFtZSI6ImJveWVya2V2IiwicGFzc3dvcmQiOiJ3czIyMzJidSJ9$
        
 	#CBSN#
         $http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8$
@@ -113,7 +113,7 @@
 	$http://stitcher.pluto.tv/stitch/hls/channel/51c75f7bb6f26ba1cd00002f/master.m3u8?deviceType=%2C%2C&deviceMake=&deviceModel=&sid=c8b023af-ff3b-4fb6-87f0-4af929510c3d&deviceId=29556502-e2a5-45de-8deb-3b3dfa36b936_e62c9abb601b4ed5&deviceVersion=7.1.1_25&appVersion=3.5.1&deviceDNT=0&userId=&advertisingId=6e7a218c-1bf7-46bf-b486-0902a3cd5a1c&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high$
 	
          #OWN#
-	$url place holder$
+	$http://vapi.vaders.tv/play/2779.m3u8?token=eyJ1c2VybmFtZSI6ImJveWVya2V2IiwicGFzc3dvcmQiOiJ3czIyMzJidSJ9$
 	
 	#MTV#
 	$http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8$
@@ -137,25 +137,25 @@
 	$http://170.178.189.66:1935/live/Stream1/playlist.m3u8$
 	
 	#Discovery Channel#
-        $url place holder$
+        $http://vapi.vaders.tv/play/2445.m3u8?token=eyJ1c2VybmFtZSI6ImJveWVya2V2IiwicGFzc3dvcmQiOiJ3czIyMzJidSJ9$
 	
 	#Showtime#
-        $url place holder$
+        $http://vapi.vaders.tv/play/39637.m3u8?token=eyJ1c2VybmFtZSI6ImJveWVya2V2IiwicGFzc3dvcmQiOiJ3czIyMzJidSJ9$
 	
 	#ESPN#
 	$http://espn.tmedia.me/cache/espn1.m3u8$
 	
 	#Investigation Discovery#
-        $url place holder$
+        $http://vapi.vaders.tv/play/7941.m3u8?token=eyJ1c2VybmFtZSI6ImJveWVya2V2IiwicGFzc3dvcmQiOiJ3czIyMzJidSJ9$
 	
 	#Planet Green#
-        $url place holder$
+        $http://vapi.vaders.tv/play/40878.m3u8?token=eyJ1c2VybmFtZSI6ImJveWVya2V2IiwicGFzc3dvcmQiOiJ3czIyMzJidSJ9$
 	
 	#Travel Channel#
 	$http://80.80.160.168/live/3/live.m3u8$
 	
 	#TLC#
-        $url place holder$
+        $http://vapi.vaders.tv/play/2777.m3u8?token=eyJ1c2VybmFtZSI6ImJveWVya2V2IiwicGFzc3dvcmQiOiJ3czIyMzJidSJ9$
 	
 	#Animal Planet#
         $http://161.0.157.5/PLTV/88888888/224/3221226253/index.m3u8$
