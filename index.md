@@ -1349,33 +1349,33 @@ $http://espn.tmedia.me/cache/espn1.m3u8$
 #ESPN2#
 $http://161.0.157.8/PLTV/88888888/224/3221226881/index.m3u8$
 
-#title place holder#
-$url place holder$
 
-#title place holder#
-$url place holder$
+#NBA TV HD#
+$http://vapi.vaders.tv/play/2788.ts?token=eyJ1c2VybmFtZSI6ImJveWVya2V2IiwicGFzc3dvcmQiOiJ3czIyMzJidSJ9$
 
-#title place holder#
-$url place holder$
+#NFL Network HD#
+$http://vapi.vaders.tv/play/2744.ts?token=eyJ1c2VybmFtZSI6ImJveWVya2V2IiwicGFzc3dvcmQiOiJ3czIyMzJidSJ9$
 
-#title place holder#
-$url place holder$  10
+#NHL Network HD#
+$http://vapi.vaders.tv/play/2786.ts?token=eyJ1c2VybmFtZSI6ImJveWVya2V2IiwicGFzc3dvcmQiOiJ3czIyMzJidSJ9$
 
+#Trinity TV#
+$http://161.0.157.38/PLTV/88888888/224/3221226638/index.m3u8$
 
-#title place holder#
-$url place holder$
+#Outdoor Channel HD#
+$http://vapi.vaders.tv/play/40878.m3u8?token=eyJ1c2VybmFtZSI6ImJveWVya2V2IiwicGFzc3dvcmQiOiJ3czIyMzJidSJ9$
 
-#title place holder#
-$url place holder$
+#Sundance HD#
+$http://vapi.vaders.tv/play/2780.m3u8?token=eyJ1c2VybmFtZSI6ImJveWVya2V2IiwicGFzc3dvcmQiOiJ3czIyMzJidSJ9$
 
-#title place holder#
-$url place holder$
+#POP HD#
+$http://vapi.vaders.tv/play/56460.m3u8?token=eyJ1c2VybmFtZSI6ImJveWVya2V2IiwicGFzc3dvcmQiOiJ3czIyMzJidSJ9$
 
-#title place holder#
-$url place holder$
+#HGTV HD#
+$http://vapi.vaders.tv/play/2454.m3u8?token=eyJ1c2VybmFtZSI6ImJveWVya2V2IiwicGFzc3dvcmQiOiJ3czIyMzJidSJ9$
 
-#title place holder#
-$url place holder$
+#Fuse#
+$http://vapi.vaders.tv/play/56452.m3u8?token=eyJ1c2VybmFtZSI6ImJveWVya2V2IiwicGFzc3dvcmQiOiJ3czIyMzJidSJ9$
 
 #title place holder#
 $url place holder$
