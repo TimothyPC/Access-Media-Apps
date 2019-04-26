@@ -22,7 +22,7 @@
     may include information such as your devices’s Internet Protocol (“IP”) address, device name,
     operating system version, configuration of the app when utilising our Service, the time and date
     of your use of the Service, and other statistics. This is only to improve our services.</p>
-
+ 
 <p><strong>Cookies</strong></p>
 <p>Cookies are files with small amount of data that is commonly used as an anonymous unique identifier.
     These are sent to your browser from the website that you visit and are stored on your devices’s
@@ -80,7 +80,7 @@
 
 <!-- Place tv app index here  
 
-        22439562
+        
 	112233
 	#ABC#
         $http://live.savitar.tv/ABC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDE5IDQ6MTA6MDQgQU0maGFzaF92YWx1ZT1pQ1U3dzhjbzdwdkVkcFl0K1VJSXlRPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
