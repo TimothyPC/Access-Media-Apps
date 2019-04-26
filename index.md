@@ -10,7 +10,7 @@
     improving the Service. We will not use or share your information with anyone except as described
     in this Privacy Policy.</p>
 <p>The terms used in this Privacy Policy has the same meanings as the Terms And Conditions in our app, unless otherwise defined in this Privacy Policy.</p>
-
+  
 <p><strong>Information Collection and Use</strong></p>
 <p>For a better experience while using our Service, we may require you to provide us with certain information, including but not limited to media, files, camera pics and etc... This is because sometimes while running specific apps, operations may be required, which may require use of these items to perform the function of which the app has been built to do. So we must have some access to them in order to do so.
 	The information that we request is retained on your device and is not collected by us in any way.</p>
@@ -81,7 +81,7 @@
 <!-- Place tv app index here  
 
         
-	112233
+	
 	#ABC#
         $http://live.savitar.tv/ABC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDE5IDQ6MTA6MDQgQU0maGFzaF92YWx1ZT1pQ1U3dzhjbzdwdkVkcFl0K1VJSXlRPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
 $
