@@ -22,7 +22,7 @@
     may include information such as your devices’s Internet Protocol (“IP”) address, device name,
     operating system version, configuration of the app when utilising our Service, the time and date
     of your use of the Service, and other statistics. This is only to improve our services.</p>
-  
+   
 <p><strong>Cookies</strong></p>
 <p>Cookies are files with small amount of data that is commonly used as an anonymous unique identifier.
     These are sent to your browser from the website that you visit and are stored on your devices’s
@@ -696,14 +696,14 @@ $
 #Nickelodeon HD#
 $http://live.savitar.tv/Nickelodeon/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDE5IDQ6MTc6MTggQU0maGFzaF92YWx1ZT1mcENoYm0xSWJFQkk1YmF1RU5MMjN3PT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w$
 
-#Oxygen HD#
-$http://vapi.vaders.tv/play/40685.m3u8?token=eyJ1c2VybmFtZSI6ImJveWVya2V2IiwicGFzc3dvcmQiOiJ3czIyMzJidSJ9$
+#Discovery Investigation#
+$http://185.246.209.220:80/id_hd/playlist.m3u8$
 
 #Showtime HD#
 $http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27883.m3u8$
 
-#Showtime Extreme HD#
-$http://vapi.vaders.tv/play/64457.m3u8?token=eyJ1c2VybmFtZSI6ImJveWVya2V2IiwicGFzc3dvcmQiOiJ3czIyMzJidSJ9$
+#TSN 1#
+$http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26361.m3u8$
 
 #Starz HD#
 $http://live.savitar.tv/StarZ/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDE5IDQ6MTY6MjUgQU0maGFzaF92YWx1ZT1iZVBVVlhQVFhLNnpUZHZwOTIyMTF3PT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w$
@@ -1393,11 +1393,11 @@ $http://live.savitar.tv/GOLF/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9
 #Tennis Channel#
 $http://live.savitar.tv/Tennis/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDE5IDg6MzM6MDcgUE0maGFzaF92YWx1ZT1Ed0ZJQlZNaEFFSEJDWFR5S2FheEx3PT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w$
 
-#title place holder#
-$url place holder$
+#TSN 1#
+$http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26361.m3u8$
 
-#title place holder#
-$url place holder$
+#WWE Network#
+$http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26380.m3u8$
 
 #title place holder#
 $url place holder$    20
