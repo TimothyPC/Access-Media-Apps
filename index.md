@@ -22,7 +22,7 @@
     may include information such as your devices’s Internet Protocol (“IP”) address, device name,
     operating system version, configuration of the app when utilising our Service, the time and date
     of your use of the Service, and other statistics. This is only to improve our services.</p>
- 
+  
 <p><strong>Cookies</strong></p>
 <p>Cookies are files with small amount of data that is commonly used as an anonymous unique identifier.
     These are sent to your browser from the website that you visit and are stored on your devices’s
@@ -87,7 +87,7 @@
 $
 	
 	#MSNBC#
-        $http://vapi.vaders.tv/play/3082.m3u8?token=eyJ1c2VybmFtZSI6ImJveWVya2V2IiwicGFzc3dvcmQiOiJ3czIyMzJidSJ9$
+        $http://live.savitar.tv/MSNBC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDE5IDg6NTg6NTggUE0maGFzaF92YWx1ZT1oSHBPTVZhVzlMTGVwYU9YTVR6TGxnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w$
        
 	#CBSN#
         $http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8$
@@ -114,7 +114,7 @@ $
 	$http://stitcher.pluto.tv/stitch/hls/channel/51c75f7bb6f26ba1cd00002f/master.m3u8?deviceType=%2C%2C&deviceMake=&deviceModel=&sid=c8b023af-ff3b-4fb6-87f0-4af929510c3d&deviceId=29556502-e2a5-45de-8deb-3b3dfa36b936_e62c9abb601b4ed5&deviceVersion=7.1.1_25&appVersion=3.5.1&deviceDNT=0&userId=&advertisingId=6e7a218c-1bf7-46bf-b486-0902a3cd5a1c&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high$
 	
          #OWN#
-	$http://vapi.vaders.tv/play/2779.m3u8?token=eyJ1c2VybmFtZSI6ImJveWVya2V2IiwicGFzc3dvcmQiOiJ3czIyMzJidSJ9$
+	$http://185.246.209.220:80/own_hd/playlist.m3u8$
 	
 	#MTV#
 	$http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8$
@@ -137,11 +137,12 @@ $
 	#Horror Tv#
 	$http://170.178.189.66:1935/live/Stream1/playlist.m3u8$
 	
-	#Discovery Channel#
-        $http://vapi.vaders.tv/play/2445.m3u8?token=eyJ1c2VybmFtZSI6ImJveWVya2V2IiwicGFzc3dvcmQiOiJ3czIyMzJidSJ9$
+	#HLN Network#
+        $http://185.246.209.220:80/hln_hd/playlist.m3u8$
 	
-	#Showtime#
-        $http://vapi.vaders.tv/play/39637.m3u8?token=eyJ1c2VybmFtZSI6ImJveWVya2V2IiwicGFzc3dvcmQiOiJ3czIyMzJidSJ9$
+	#WWE Network#
+        $http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26380.m3u8
+$
 	
 	#ESPN#
 	$http://espn.tmedia.me/cache/espn1.m3u8$
@@ -150,8 +151,8 @@ $
         $http://live.savitar.tv/ID/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDE5IDQ6MjM6NDQgQU0maGFzaF92YWx1ZT1TeFZSOFVqa21xMG9SRzZTS0pSYll3PT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
 $
 	
-	#Planet Green#
-        $http://vapi.vaders.tv/play/40878.m3u8?token=eyJ1c2VybmFtZSI6ImJveWVya2V2IiwicGFzc3dvcmQiOiJ3czIyMzJidSJ9$
+	#BET#
+        $http://185.246.209.220:80/bet_hd/playlist.m3u8$
 	
 	#Travel Channel#
 	$http://live.savitar.tv/Travel/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDE5IDQ6MTQ6MDQgQU0maGFzaF92YWx1ZT16RWZmMDVhWG5CZytLRXJ0RVZ3bnBRPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w$
@@ -162,8 +163,8 @@ $
 	#Animal Planet#
         $http://live.savitar.tv/Animal/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDE5IDQ6Mjk6MDYgQU0maGFzaF92YWx1ZT1ZWU9xditRcC9rd1dvTEorTU9SWVVnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w$
 	
-	#Science#
-	$http://80.80.160.168/live/9/live.m3u8$
+	#TNT Network#
+	$http://185.246.209.220:80/tnt_hd/playlist.m3u8$
 	
 	#Adulswim#
 	$http://adultswimhls-i.akamaihd.net/hls/live/238460/adultswim/main/1/master.m3u8$
@@ -486,6 +487,7 @@ $http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-134/chunkl
 $http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-151/chunklist.m3u8$
 
 
+
 start of ch 127 - 200 for usa button menu 
 
 #Trinity Tv#
@@ -503,14 +505,14 @@ $http://live.savitar.tv/Disney/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbW
 #Freeedom TV#
 $http://live.savitar.tv/Freeform/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDE5IDQ6MjI6NTMgQU0maGFzaF92YWx1ZT1UOW5LQzFHOCt4UlFSRmgxOGRjSGdnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w$
 
-#Home and Health#
-$http://vapi.vaders.tv/play/35001.m3u8?token=eyJ1c2VybmFtZSI6ImJveWVya2V2IiwicGFzc3dvcmQiOiJ3czIyMzJidSJ9$
+#Discovery Channel#
+$http://live.savitar.tv/Discovery/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDE5IDg6NDc6MTkgUE0maGFzaF92YWx1ZT1XUmpsRlJxNzFNRDR4ZkRnQlBldVhBPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w$
 	
 #USA Network#
-$http://vapi.vaders.tv/play/2462.m3u8?token=eyJ1c2VybmFtZSI6ImJveWVya2V2IiwicGFzc3dvcmQiOiJ3czIyMzJidSJ9$
+$http://live.savitar.tv/USANetwork/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDE5IDg6NDg6MjIgUE0maGFzaF92YWx1ZT1zdEpFZmVyazFpS3FzaTVnbkZscmd3PT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w$
 
 #History Channel#
-$http://vapi.vaders.tv/play/2915.m3u8?token=eyJ1c2VybmFtZSI6ImJveWVya2V2IiwicGFzc3dvcmQiOiJ3czIyMzJidSJ9$
+$http://live.savitar.tv/History/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDE5IDg6NDY6MjMgUE0maGFzaF92YWx1ZT15emFhY0VWT09WR3AyOG04OWdMd3hRPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w$
 	
 #Food Network#
 $http://live.savitar.tv/FoodNetwork/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDE5IDM6NDM6NTYgQU0maGFzaF92YWx1ZT0wUXlSbVcvOXVZMkppZzZBQVBmc0dnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w$
@@ -654,7 +656,7 @@ $http://vapi.vaders.tv/play/2436.m3u8?token=eyJ1c2VybmFtZSI6ImJveWVya2V2IiwicGFz
 $http://vapi.vaders.tv/play/8198.m3u8?token=eyJ1c2VybmFtZSI6ImJveWVya2V2IiwicGFzc3dvcmQiOiJ3czIyMzJidSJ9$
 
 #Discovery Science#
-$http://vapi.vaders.tv/play/54628.m3u8?token=eyJ1c2VybmFtZSI6ImJveWVya2V2IiwicGFzc3dvcmQiOiJ3czIyMzJidSJ9$
+$http://live.savitar.tv/Disney/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDE5IDQ6Mjc6MTEgQU0maGFzaF92YWx1ZT12V0owcDRsUi9yaHQrdEFEdGxZUGNRPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w$
 
 #FX#
 $http://live.savitar.tv/FX/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDE5IDQ6Mjg6MTQgQU0maGFzaF92YWx1ZT1uYzVFUFU0OUpyYk9IZGE0MjlVQXBRPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w$
@@ -662,29 +664,30 @@ $http://live.savitar.tv/FX/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC
 #Hallmark Channel#
 $http://live.savitar.tv/Hallmark/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDE5IDQ6MzI6MjcgQU0maGFzaF92YWx1ZT0yd2dDT1FJUm9ReXhUVGRISlN5bndnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w$
 
-#HBO Family#
-$http://vapi.vaders.tv/play/59092.m3u8?token=eyJ1c2VybmFtZSI6ImJveWVya2V2IiwicGFzc3dvcmQiOiJ3czIyMzJidSJ9$
+#ESPN#
+$http://espa.land02.live:8080/live/inikodijevic/y3cjPiGee4/74879.m3u8$
 
-#HBO Comedy HD#
-$http://vapi.vaders.tv/play/7860.m3u8?token=eyJ1c2VybmFtZSI6ImJveWVya2V2IiwicGFzc3dvcmQiOiJ3czIyMzJidSJ9$
+#USA Network#
+$http://live.savitar.tv/USANetwork/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDE5IDg6NDg6MjIgUE0maGFzaF92YWx1ZT1zdEpFZmVyazFpS3FzaTVnbkZscmd3PT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w$
 
-#HBO Signature HD#
-$http://vapi.vaders.tv/play/7857.m3u8?token=eyJ1c2VybmFtZSI6ImJveWVya2V2IiwicGFzc3dvcmQiOiJ3czIyMzJidSJ9$
+#A&E Channel#
+$http://live.savitar.tv/AE/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDE5IDg6NDQ6MTQgUE0maGFzaF92YWx1ZT1GbmRuRGpiZHhxRUE3dXh0NDJyNXVRPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w$
 
-#HBO Zone HD#
-$http://vapi.vaders.tv/play/7944.m3u8?token=eyJ1c2VybmFtZSI6ImJveWVya2V2IiwicGFzc3dvcmQiOiJ3czIyMzJidSJ9$
+#Bravo#
+$http://live.savitar.tv/Bravo/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDE5IDg6NDM6MDYgUE0maGFzaF92YWx1ZT1WWTJiMmdMSE85Mm9nTHJzVFlRd2FBPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w$
 
-#Cinemax#
-$http://vapi.vaders.tv/play/7936.m3u8?token=eyJ1c2VybmFtZSI6ImJveWVya2V2IiwicGFzc3dvcmQiOiJ3czIyMzJidSJ9$
+#Cartoon Network#
+$http://live.savitar.tv/CN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDE5IDg6NDI6MDggUE0maGFzaF92YWx1ZT1mSVJhQ3JZenN0QzVNS0FpM2RBZFJBPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w$
 
-#Cinemax 5 Star#
-$http://vapi.vaders.tv/play/7947.m3u8?token=eyJ1c2VybmFtZSI6ImJveWVya2V2IiwicGFzc3dvcmQiOiJ3czIyMzJidSJ9$
+#PBS#
+$http://live.savitar.tv/PBS/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDE5IDg6MzU6NTggUE0maGFzaF92YWx1ZT1DeFlqYnJFYkNYVFFoclN5Ris4SzdBPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w$
 
-#Cinemax Actionmax#
-$http://vapi.vaders.tv/play/7946.m3u8?token=eyJ1c2VybmFtZSI6ImJveWVya2V2IiwicGFzc3dvcmQiOiJ3czIyMzJidSJ9$
+#HGTV#
+$http://live.savitar.tv/HGTV/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDE5IDg6MzU6MDcgUE0maGFzaF92YWx1ZT1CcGVZVFdYTXBoVGNNNis2ZXUvOXZ3PT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w$
 
-#Cinemax Moremax#
-$http://vapi.vaders.tv/play/7945.m3u8?token=eyJ1c2VybmFtZSI6ImJveWVya2V2IiwicGFzc3dvcmQiOiJ3czIyMzJidSJ9$
+#BBC America#
+$http://live.savitar.tv/BBCAmerica/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDE5IDg6MzQ6MDIgUE0maGFzaF92YWx1ZT1CQmFLVE5hdjJJSW1NUGR3MGdPRGpBPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
+$
 
 #Nat Geo HD#
 $http://live.savitar.tv/NatGEOWild/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDE5IDQ6MzY6NTcgQU0maGFzaF92YWx1ZT1HQWVCUWI4SGdiZlNKcWlXNi9EOGJRPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
@@ -696,8 +699,8 @@ $http://live.savitar.tv/Nickelodeon/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX
 #Oxygen HD#
 $http://vapi.vaders.tv/play/40685.m3u8?token=eyJ1c2VybmFtZSI6ImJveWVya2V2IiwicGFzc3dvcmQiOiJ3czIyMzJidSJ9$
 
-#Showtime 2 HD#
-$http://vapi.vaders.tv/play/39638.m3u8?token=eyJ1c2VybmFtZSI6ImJveWVya2V2IiwicGFzc3dvcmQiOiJ3czIyMzJidSJ9$
+#Showtime HD#
+$http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27883.m3u8$
 
 #Showtime Extreme HD#
 $http://vapi.vaders.tv/play/64457.m3u8?token=eyJ1c2VybmFtZSI6ImJveWVya2V2IiwicGFzc3dvcmQiOiJ3czIyMzJidSJ9$
@@ -709,13 +712,14 @@ $http://live.savitar.tv/StarZ/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU
 $http://vapi.vaders.tv/play/79264.m3u8?token=eyJ1c2VybmFtZSI6ImJveWVya2V2IiwicGFzc3dvcmQiOiJ3czIyMzJidSJ9$
 
 #SYFY HD#
-$http://vapi.vaders.tv/play/2458.m3u8?token=eyJ1c2VybmFtZSI6ImJveWVya2V2IiwicGFzc3dvcmQiOiJ3czIyMzJidSJ9$
+$http://live.savitar.tv/SYFY/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDE5IDg6Mjk6NDAgUE0maGFzaF92YWx1ZT0xTTZYV1U0R0YyNWlEb1h3aXl1NDF3PT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w$
 
 #TBS#
-$http://vapi.vaders.tv/play/2461.m3u8?token=eyJ1c2VybmFtZSI6ImJveWVya2V2IiwicGFzc3dvcmQiOiJ3czIyMzJidSJ9$
+$http://live.savitar.tv/TBS/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDE5IDg6MzE6MzMgUE0maGFzaF92YWx1ZT1kV292bStHUkRwR29xcCs3b0Y1N1JBPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
+$
 
 #TNT#
-$http://vapi.vaders.tv/play/2459.m3u8?token=eyJ1c2VybmFtZSI6ImJveWVya2V2IiwicGFzc3dvcmQiOiJ3czIyMzJidSJ9$
+$http://185.246.209.220:80/tnt_hd/playlist.m3u8$
 
 #Tru Tv#
 $http://vapi.vaders.tv/play/2466.m3u8?token=eyJ1c2VybmFtZSI6ImJveWVya2V2IiwicGFzc3dvcmQiOiJ3czIyMzJidSJ9$
@@ -1386,8 +1390,8 @@ $http://live.savitar.tv/MLB/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9N
 #Golf Channel#
 $http://live.savitar.tv/GOLF/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDE5IDQ6MzE6MzQgQU0maGFzaF92YWx1ZT1Ub1RxSEdxVGxEczRxMHYzeitUeDJBPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w$
 
-#title place holder#
-$url place holder$
+#Tennis Channel#
+$http://live.savitar.tv/Tennis/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDE5IDg6MzM6MDcgUE0maGFzaF92YWx1ZT1Ed0ZJQlZNaEFFSEJDWFR5S2FheEx3PT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w$
 
 #title place holder#
 $url place holder$
