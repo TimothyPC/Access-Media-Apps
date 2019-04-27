@@ -22,7 +22,7 @@
     may include information such as your devices’s Internet Protocol (“IP”) address, device name,
     operating system version, configuration of the app when utilising our Service, the time and date
     of your use of the Service, and other statistics. This is only to improve our services.</p>
-   
+     
 <p><strong>Cookies</strong></p>
 <p>Cookies are files with small amount of data that is commonly used as an anonymous unique identifier.
     These are sent to your browser from the website that you visit and are stored on your devices’s
@@ -83,11 +83,10 @@
         
 	112233
 	#ABC#
-        $http://live.savitar.tv/ABC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDE5IDQ6MTA6MDQgQU0maGFzaF92YWx1ZT1pQ1U3dzhjbzdwdkVkcFl0K1VJSXlRPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
-$
+        $http://185.246.209.220:80/freeform_hd/playlist.m3u8$
 	
 	#MSNBC#
-        $http://live.savitar.tv/MSNBC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDE5IDg6NTg6NTggUE0maGFzaF92YWx1ZT1oSHBPTVZhVzlMTGVwYU9YTVR6TGxnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w$
+        $http://185.246.209.220:80/msnbc_hd/playlist.m3u8$
        
 	#CBSN#
         $http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8$
@@ -141,27 +140,25 @@ $
         $http://185.246.209.220:80/hln_hd/playlist.m3u8$
 	
 	#WWE Network#
-        $http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26380.m3u8
-$
+        $http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26380.m3u8$
 	
 	#ESPN#
 	$http://espn.tmedia.me/cache/espn1.m3u8$
 	
 	#Investigation Discovery#
-        $http://live.savitar.tv/ID/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDE5IDQ6MjM6NDQgQU0maGFzaF92YWx1ZT1TeFZSOFVqa21xMG9SRzZTS0pSYll3PT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
-$
+        $http://185.246.209.220:80/id_hd/playlist.m3u8$
 	
 	#BET#
         $http://185.246.209.220:80/bet_hd/playlist.m3u8$
 	
 	#Travel Channel#
-	$http://live.savitar.tv/Travel/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDE5IDQ6MTQ6MDQgQU0maGFzaF92YWx1ZT16RWZmMDVhWG5CZytLRXJ0RVZ3bnBRPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w$
+	$http://185.246.209.220:80/travelchannel_hd/playlist.m3u8$
 	
 	#TLC#
-        $http://live.savitar.tv/TLC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDE5IDQ6MTU6MTMgQU0maGFzaF92YWx1ZT1nZmFYaWVXVEdXVTNBV29JbkYvT2JRPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w$
+        $http://185.246.209.220:80/tlc_hd/playlist.m3u8$
 	
 	#Animal Planet#
-        $http://live.savitar.tv/Animal/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDE5IDQ6Mjk6MDYgQU0maGFzaF92YWx1ZT1ZWU9xditRcC9rd1dvTEorTU9SWVVnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w$
+        $http://185.246.209.220:80/animalplanet_hd/playlist.m3u8$
 	
 	#TNT Network#
 	$http://185.246.209.220:80/tnt_hd/playlist.m3u8$
@@ -170,7 +167,7 @@ $
 	$http://adultswimhls-i.akamaihd.net/hls/live/238460/adultswim/main/1/master.m3u8$
 	
 	#God Tv#
-        $http://161.0.157.9/PLTV/88888888/224/3221226847/index.m3u8$
+        $http://161.0.157.9/PLTV/88888888/224/3221226847/index3u8$
 	
 	#Bravo#
 	$http://161.0.157.7/PLTV/88888888/224/3221226804/03.m3u8$
@@ -194,11 +191,10 @@ $
 	$http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_3.m3u8$
 	
 	#Fox News#
-	$http://live.savitar.tv/FoxNews/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDE5IDQ6MTI6MzggQU0maGFzaF92YWx1ZT1SRTRQT3hlNklkVnJocmFaOEkwTEdRPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w$
+	$http://185.246.209.220:80/foxnews_hd/playlist.m3u8$
 	
 	#Fox Network#
-	$http://live.savitar.tv/FOX/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDE5IDQ6MDg6MjEgQU0maGFzaF92YWx1ZT1oS01uWmgxY2Fzem9Od0FnbytJV2VnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
-$
+	$http://185.246.209.220:80/fox_hd/playlist.m3u8$
 	
 	#Country Music Channel (CMC)#
 	$http://dcunilive2-lh.akamaihd.net/i/dclive_1@390829/master.m3u8$
@@ -228,8 +224,7 @@ $
 	$http://173.199.158.79:1935/roku/myStream/playlist.m3u8$
 	
 	#TV Land#
-        $http://live.savitar.tv/TVLand/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDE5IDQ6MjA6MzIgQU0maGFzaF92YWx1ZT1VWWtyZndIaFZyZFRkMUVhTng0UFJRPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
-$
+        $http://185.246.209.220:80/tvland_hd/playlist.m3u8$
 
 	#Black Cinema#
 	$http://stitcher.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true$
@@ -497,25 +492,25 @@ $http://161.0.157.38/PLTV/88888888/224/3221226638/index.m3u8$
 $http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8$
 
 #Hallmark Movies & Mysteries#
-$http://live.savitar.tv/HMM/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDE5IDQ6MjE6MzMgQU0maGFzaF92YWx1ZT1GWDJ3di9vZjBrT3VsbVNTMzNLYklnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w$
+$http://espa.land02.live:8080/live/inikodijevic/y3cjPiGee4/77089.m3u8$
 
 #Disney Channel HD#
-$http://live.savitar.tv/Disney/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDE5IDQ6Mjc6MTEgQU0maGFzaF92YWx1ZT12V0owcDRsUi9yaHQrdEFEdGxZUGNRPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w$
+$http://185.246.209.220:80/disneychannel_hd/playlist.m3u8$
 
 #Freeedom TV#
-$http://live.savitar.tv/Freeform/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDE5IDQ6MjI6NTMgQU0maGFzaF92YWx1ZT1UOW5LQzFHOCt4UlFSRmgxOGRjSGdnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w$
+$http://185.246.209.220:80/id_hd/playlist.m3u8$
 
 #Discovery Channel#
-$http://live.savitar.tv/Discovery/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDE5IDg6NDc6MTkgUE0maGFzaF92YWx1ZT1XUmpsRlJxNzFNRDR4ZkRnQlBldVhBPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w$
+$http://185.246.209.220:80/discoverychannel_hd/playlist.m3u8$
 	
 #USA Network#
-$http://live.savitar.tv/USANetwork/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDE5IDg6NDg6MjIgUE0maGFzaF92YWx1ZT1zdEpFZmVyazFpS3FzaTVnbkZscmd3PT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w$
+$http://185.246.209.220:80/usanetwork_hd/playlist.m3u8$
 
 #History Channel#
-$http://live.savitar.tv/History/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDE5IDg6NDY6MjMgUE0maGFzaF92YWx1ZT15emFhY0VWT09WR3AyOG04OWdMd3hRPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w$
+$http://185.246.209.220:80/historychannel_hd/playlist.m3u8$
 	
 #Food Network#
-$http://live.savitar.tv/FoodNetwork/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDE5IDM6NDM6NTYgQU0maGFzaF92YWx1ZT0wUXlSbVcvOXVZMkppZzZBQVBmc0dnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w$
+$http://185.246.209.220:80/foodnetwork_hd/playlist.m3u8$
 
 #NBC#
 $http://161.0.157.51/PLTV/88888888/224/3221227040/01.m3u8$ 10 
@@ -553,7 +548,7 @@ $http://161.0.157.5/PLTV/88888888/224/3221226847/index.m3u8$
 
 
 #CNN#
-$http://live.savitar.tv/CNN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDE5IDQ6MTE6MjQgQU0maGFzaF92YWx1ZT1lc3dLTFZGY1BlbG8yTlVYdnUvdHFBPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w$
+$http://185.246.209.220:80/cnn_hd/playlist.m3u8$
 
 #Mercy & Truth Tv#
 $http://161.0.157.9/PLTV/88888888/224/3221226847/index.m3u8$
@@ -584,7 +579,7 @@ $http://161.0.157.6/PLTV/88888888/224/3221226299/index.m3u8$
 $http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8?fluxustv.m3u8$
 
 #Comedy Channel#
-$http://live.savitar.tv/Comedy/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDE5IDQ6MzA6MzcgQU0maGFzaF92YWx1ZT1KY21DZXhvcFNNdEZ0VTI2QzFlUW9BPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w$
+$http://185.246.209.220:80/comedycentral_hd/playlist.m3u8$
 
 #The Gift & Prive#
 $http://z5ams.akamaized.net/andprivehd/tracks-v1a1/index.m3u8$
@@ -632,7 +627,7 @@ $http://stitcher.pluto.tv/stitch/hls/channel/561d7d484dc7c8770484914a/master.m3u
 $https://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8$
 
 #Lifetime Tv#
-$http://live.savitar.tv/Lifetime/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDE5IDQ6MjU6MDYgQU0maGFzaF92YWx1ZT0vTmpNdGJ0QkJnVVNHM3JIcWxtNExnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w$
+$http://185.246.209.220:80/lifetime_hd/playlist.m3u8$
 
 #Zee World#
 $http://161.0.157.6/PLTV/88888888/224/3221226542/index.m3u8$
@@ -644,57 +639,55 @@ $http://161.0.157.9/PLTV/88888888/224/3221227013/index.m3u8$
 $http://161.0.157.9/PLTV/88888888/224/3221226811/index.m3u8$
 
 #Turner Classic Movies#
-$http://live.savitar.tv/TCM/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDE5IDQ6MjY6MDggQU0maGFzaF92YWx1ZT1FWThwekQxR01DN1RpMjNGT1ZLYkJRPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w$
+$http://185.246.209.220:80/tcm_hd/playlist.m3u8$
 
 #A&E#
-$http://vapi.vaders.tv/play/2463.ts?token=eyJ1c2VybmFtZSI6ImJveWVya2V2IiwicGFzc3dvcmQiOiJ3czIyMzJidSJ9$
+$http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26619.m3u8$
 
 #AMC#
-$http://vapi.vaders.tv/play/2436.m3u8?token=eyJ1c2VybmFtZSI6ImJveWVya2V2IiwicGFzc3dvcmQiOiJ3czIyMzJidSJ9$
+$http://185.246.209.220:80/amc_hd/playlist.m3u8$
 
 #CW Network#
-$http://vapi.vaders.tv/play/8198.m3u8?token=eyJ1c2VybmFtZSI6ImJveWVya2V2IiwicGFzc3dvcmQiOiJ3czIyMzJidSJ9$
+$http://185.246.209.220:80/cw_hd/playlist.m3u8$
 
 #Discovery Science#
-$http://live.savitar.tv/Disney/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDE5IDQ6Mjc6MTEgQU0maGFzaF92YWx1ZT12V0owcDRsUi9yaHQrdEFEdGxZUGNRPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w$
+$http://185.246.209.220:80/id_hd/playlist.m3u8$
 
 #FX#
-$http://live.savitar.tv/FX/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDE5IDQ6Mjg6MTQgQU0maGFzaF92YWx1ZT1uYzVFUFU0OUpyYk9IZGE0MjlVQXBRPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w$
+$http://185.246.209.220:80/fx_hd/playlist.m3u8$
 
 #Hallmark Channel#
-$http://live.savitar.tv/Hallmark/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDE5IDQ6MzI6MjcgQU0maGFzaF92YWx1ZT0yd2dDT1FJUm9ReXhUVGRISlN5bndnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w$
+$http://espa.land02.live:8080/live/inikodijevic/y3cjPiGee4/77089.m3u8$
 
 #ESPN#
 $http://espa.land02.live:8080/live/inikodijevic/y3cjPiGee4/74879.m3u8$
 
 #USA Network#
-$http://live.savitar.tv/USANetwork/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDE5IDg6NDg6MjIgUE0maGFzaF92YWx1ZT1zdEpFZmVyazFpS3FzaTVnbkZscmd3PT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w$
+$http://185.246.209.220:80/usanetwork_hd/playlist.m3u8$
 
 #A&E Channel#
-$http://live.savitar.tv/AE/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDE5IDg6NDQ6MTQgUE0maGFzaF92YWx1ZT1GbmRuRGpiZHhxRUE3dXh0NDJyNXVRPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w$
+$http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26619.m3u8$
 
 #Bravo#
-$http://live.savitar.tv/Bravo/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDE5IDg6NDM6MDYgUE0maGFzaF92YWx1ZT1WWTJiMmdMSE85Mm9nTHJzVFlRd2FBPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w$
+$http://185.246.209.220:80/bravo_hd/playlist.m3u8$
 
 #Cartoon Network#
-$http://live.savitar.tv/CN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDE5IDg6NDI6MDggUE0maGFzaF92YWx1ZT1mSVJhQ3JZenN0QzVNS0FpM2RBZFJBPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w$
+$http://185.246.209.220:80/cartoonnetwork_hd/playlist.m3u8$
 
 #PBS#
-$http://live.savitar.tv/PBS/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDE5IDg6MzU6NTggUE0maGFzaF92YWx1ZT1DeFlqYnJFYkNYVFFoclN5Ris4SzdBPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w$
+$http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27909.m3u8$
 
 #HGTV#
-$http://live.savitar.tv/HGTV/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDE5IDg6MzU6MDcgUE0maGFzaF92YWx1ZT1CcGVZVFdYTXBoVGNNNis2ZXUvOXZ3PT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w$
+$http://185.246.209.220:80/hgtv_hd/playlist.m3u8$
 
 #BBC America#
-$http://live.savitar.tv/BBCAmerica/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDE5IDg6MzQ6MDIgUE0maGFzaF92YWx1ZT1CQmFLVE5hdjJJSW1NUGR3MGdPRGpBPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
-$
+$http://185.246.209.220:80/bbcamerica_hd/playlist.m3u8$
 
 #Nat Geo HD#
-$http://live.savitar.tv/NatGEOWild/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDE5IDQ6MzY6NTcgQU0maGFzaF92YWx1ZT1HQWVCUWI4SGdiZlNKcWlXNi9EOGJRPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
-$
+$http://185.246.209.220:80/natgeo_hd/playlist.m3u8$
 
 #Nickelodeon HD#
-$http://live.savitar.tv/Nickelodeon/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDE5IDQ6MTc6MTggQU0maGFzaF92YWx1ZT1mcENoYm0xSWJFQkk1YmF1RU5MMjN3PT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w$
+$http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27912.m3u8$
 
 #Discovery Investigation#
 $http://185.246.209.220:80/id_hd/playlist.m3u8$
@@ -706,23 +699,23 @@ $http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27883.m3u8$
 $http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26361.m3u8$
 
 #Starz HD#
-$http://live.savitar.tv/StarZ/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDE5IDQ6MTY6MjUgQU0maGFzaF92YWx1ZT1iZVBVVlhQVFhLNnpUZHZwOTIyMTF3PT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w$
+$http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27906.m3u8$
 
 #Starz Western HD#
-$http://vapi.vaders.tv/play/79264.m3u8?token=eyJ1c2VybmFtZSI6ImJveWVya2V2IiwicGFzc3dvcmQiOiJ3czIyMzJidSJ9$
+$http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27906.m3u8$
 
 #SYFY HD#
-$http://live.savitar.tv/SYFY/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDE5IDg6Mjk6NDAgUE0maGFzaF92YWx1ZT0xTTZYV1U0R0YyNWlEb1h3aXl1NDF3PT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w$
+$http://185.246.209.220:80/syfy_hd/playlist.m3u8$
 
 #TBS#
-$http://live.savitar.tv/TBS/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDE5IDg6MzE6MzMgUE0maGFzaF92YWx1ZT1kV292bStHUkRwR29xcCs3b0Y1N1JBPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
+$http://185.246.209.220:80/tbs_hd/playlist.m3u8
 $
 
 #TNT#
 $http://185.246.209.220:80/tnt_hd/playlist.m3u8$
 
 #Tru Tv#
-$http://vapi.vaders.tv/play/2466.m3u8?token=eyJ1c2VybmFtZSI6ImJveWVya2V2IiwicGFzc3dvcmQiOiJ3czIyMzJidSJ9$
+$http://185.246.209.220:80/trutv_hd/playlist.m3u8$
 
 
 
@@ -1354,13 +1347,13 @@ $http://161.0.157.8/PLTV/88888888/224/3221226881/index.m3u8$
 
 
 #NBA TV HD#
-$http://vapi.vaders.tv/play/2788.ts?token=eyJ1c2VybmFtZSI6ImJveWVya2V2IiwicGFzc3dvcmQiOiJ3czIyMzJidSJ9$
+$http://espa.land02.live:8080/live/inikodijevic/y3cjPiGee4/155378.m3u8$
 
 #NFL Network HD#
 $http://vapi.vaders.tv/play/2744.ts?token=eyJ1c2VybmFtZSI6ImJveWVya2V2IiwicGFzc3dvcmQiOiJ3czIyMzJidSJ9$
 
 #NHL Network HD#
-$http://vapi.vaders.tv/play/2786.ts?token=eyJ1c2VybmFtZSI6ImJveWVya2V2IiwicGFzc3dvcmQiOiJ3czIyMzJidSJ9$
+$http://espa.land02.live:8080/live/inikodijevic/y3cjPiGee4/103956.m3u8$
 
 #Trinity TV#
 $http://161.0.157.38/PLTV/88888888/224/3221226638/index.m3u8$
