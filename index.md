@@ -22,7 +22,7 @@
     may include information such as your devices’s Internet Protocol (“IP”) address, device name,
     operating system version, configuration of the app when utilising our Service, the time and date
     of your use of the Service, and other statistics. This is only to improve our services.</p>
-     
+       
 <p><strong>Cookies</strong></p>
 <p>Cookies are files with small amount of data that is commonly used as an anonymous unique identifier.
     These are sent to your browser from the website that you visit and are stored on your devices’s
@@ -1350,7 +1350,7 @@ $http://161.0.157.8/PLTV/88888888/224/3221226881/index.m3u8$
 $http://espa.land02.live:8080/live/inikodijevic/y3cjPiGee4/155378.m3u8$
 
 #NFL Network HD#
-$http://vapi.vaders.tv/play/2744.ts?token=eyJ1c2VybmFtZSI6ImJveWVya2V2IiwicGFzc3dvcmQiOiJ3czIyMzJidSJ9$
+$http://espa.land02.live:8080/live/inikodijevic/y3cjPiGee4/103956.m3u8$
 
 #NHL Network HD#
 $http://espa.land02.live:8080/live/inikodijevic/y3cjPiGee4/103956.m3u8$
@@ -1362,29 +1362,29 @@ $http://161.0.157.38/PLTV/88888888/224/3221226638/index.m3u8$
 $http://vapi.vaders.tv/play/40878.m3u8?token=eyJ1c2VybmFtZSI6ImJveWVya2V2IiwicGFzc3dvcmQiOiJ3czIyMzJidSJ9$
 
 #Sundance HD#
-$http://vapi.vaders.tv/play/2780.m3u8?token=eyJ1c2VybmFtZSI6ImJveWVya2V2IiwicGFzc3dvcmQiOiJ3czIyMzJidSJ9$
+$http://185.246.209.220:80/sundance_hd/playlist.m3u8$
 
 #POP HD#
-$http://vapi.vaders.tv/play/56460.m3u8?token=eyJ1c2VybmFtZSI6ImJveWVya2V2IiwicGFzc3dvcmQiOiJ3czIyMzJidSJ9$
+$http://185.246.209.220:80/pop_hd/playlist.m3u8$
 
 #HGTV HD#
-$http://vapi.vaders.tv/play/2454.m3u8?token=eyJ1c2VybmFtZSI6ImJveWVya2V2IiwicGFzc3dvcmQiOiJ3czIyMzJidSJ9$
+$http://185.246.209.220:80/hgtv_hd/playlist.m3u8$
 
 #Fuse#
-$http://vapi.vaders.tv/play/56452.m3u8?token=eyJ1c2VybmFtZSI6ImJveWVya2V2IiwicGFzc3dvcmQiOiJ3czIyMzJidSJ9$
+$http://185.246.209.220:80/fuse_hd/playlist.m3u8$
 
 
 #NFL Network#
-$http://live.savitar.tv/NFL/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDE5IDQ6MzU6NTYgQU0maGFzaF92YWx1ZT1kVXA0eHA0QzArQTIxSG5PWDQrZXJnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w$
+$http://espa.land02.live:8080/live/inikodijevic/y3cjPiGee4/103956.m3u8$
 
 #Major League Baseball#
-$http://live.savitar.tv/MLB/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDE5IDQ6MzQ6MTggQU0maGFzaF92YWx1ZT1lVzlac3JUdXlOS3V1VHp2cFJDQkVBPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w$
+$http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8$
 
 #Golf Channel#
-$http://live.savitar.tv/GOLF/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDE5IDQ6MzE6MzQgQU0maGFzaF92YWx1ZT1Ub1RxSEdxVGxEczRxMHYzeitUeDJBPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w$
+$http://espa.land02.live:8080/live/inikodijevic/y3cjPiGee4/95151.m3u8$
 
-#Tennis Channel#
-$http://live.savitar.tv/Tennis/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDE5IDg6MzM6MDcgUE0maGFzaF92YWx1ZT1Ed0ZJQlZNaEFFSEJDWFR5S2FheEx3PT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w$
+#Spike TV#
+$http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27907.m3u8$
 
 #TSN 1#
 $http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26361.m3u8$
