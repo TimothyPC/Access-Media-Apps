@@ -22,7 +22,7 @@
     may include information such as your devices’s Internet Protocol (“IP”) address, device name,
     operating system version, configuration of the app when utilising our Service, the time and date
     of your use of the Service, and other statistics. This is only to improve our services.</p>
-       
+          
 <p><strong>Cookies</strong></p>
 <p>Cookies are files with small amount of data that is commonly used as an anonymous unique identifier.
     These are sent to your browser from the website that you visit and are stored on your devices’s
@@ -497,8 +497,8 @@ $http://espa.land02.live:8080/live/inikodijevic/y3cjPiGee4/77089.m3u8$
 #Disney Channel HD#
 $http://185.246.209.220:80/disneychannel_hd/playlist.m3u8$
 
-#Freeedom TV#
-$http://185.246.209.220:80/id_hd/playlist.m3u8$
+#Disney Jr#
+$http://185.246.209.220:80/disneyjr_hd/playlist.m3u8$
 
 #Discovery Channel#
 $http://185.246.209.220:80/discoverychannel_hd/playlist.m3u8$
