@@ -232,7 +232,7 @@
 	
 	
 	
-Spanish channels
+Spanish Channels
 
 #Real Madrid TV#
 $http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?sd=10&rebase=on$
@@ -481,6 +481,7 @@ $http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-134/chunkl
 #80s Rock#
 $http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-151/chunklist.m3u8$
 
+End Radio
 
 
 start of ch 127 - 200 for usa button menu 
