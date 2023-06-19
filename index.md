@@ -2,11 +2,11 @@
 <body>
 <h2>Privacy Policy</h2>
 <p>Access has built this app as a free app. This SERVICE is provided by Access at no cost and is intended
-    for use as is.</p>
+    for use as is. Timothy Carver is the owner of Access. You may reach the owner of Access at onlinecontributor2021@gmail.com at anytime.</p>
 <p>This page is used to inform website visitors regarding our policies with the collection, use, and
     disclosure of Personal Information if anyone decided to use our Service.</p>
 <p>If you choose to use our Service, then you agree to the collection and use of information in
-    relation with this policy. The Personal Information that we collect are used for providing and
+    relation with this policy. The Personal Information that we may collect are used for providing and
     improving the Service. We will not use or share your information with anyone except as described
     in this Privacy Policy.</p>
 <p>The terms used in this Privacy Policy has the same meanings as the Terms And Conditions in our app, unless otherwise defined in this Privacy Policy.</p>
