@@ -70,15 +70,18 @@
     on this page. These changes are effective immediately, after they are posted on this page.</p>
 
 <p><strong>Contact Us</strong></p>
-<p>If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact
-    us.</p>
-<p>This Privacy Policy page was created at <a href="https://privacypolicytemplate.net"
-                                              target="_blank">privacypolicytemplate.net</a>.</p>
+<p>If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at onlinecontributor2021@gmail.com.</p>
+
 					      
 
 
 
 <!--
+<p>This Privacy Policy page was created at <a href="https://privacypolicytemplate.net"
+                                              target="_blank">privacypolicytemplate.net</a>.</p>
+
+
+
   Movies Anytime 
    **https://web.fmovies.to/##
      
