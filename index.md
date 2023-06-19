@@ -2,6 +2,7 @@
 <body>
 
 <script> var x = document.getElementsByClassName("site-footer-credits"); 
+x.style = "color:red";
 x.remove(); </script>
 
  
