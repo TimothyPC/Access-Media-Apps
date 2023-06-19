@@ -1,7 +1,8 @@
 <html>
 <body>
 
-<script> var x = document.getElementsByClassName("site-footer-credits"); x[0].remove(); </script>
+<script> var x = document.getElementsByClassName("site-footer-credits"); 
+x.remove(); </script>
 
  
 <style>
