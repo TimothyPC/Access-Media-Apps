@@ -1526,3 +1526,11 @@ $url place holder$    50
 -->
 
 
+<style>
+  .footer {
+    display: none;
+  }
+</style>
+
+
+
