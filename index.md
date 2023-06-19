@@ -1,5 +1,10 @@
 <html>
 <body>
+	
+<style>
+  .footer {display: none;}
+</style>
+
 <h2>Privacy Policy</h2>
 <p>Access has built this app as a free app. This SERVICE is provided by Access at no cost and is intended
     for use as is. Timothy Carver is the owner of Access. You may reach the owner of Access at onlinecontributor2021@gmail.com at anytime.</p>
@@ -1526,11 +1531,7 @@ $url place holder$    50
 -->
 
 
-<style>
-  .footer {
-    display: none;
-  }
-</style>
+
 
 
 
