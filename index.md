@@ -1,6 +1,15 @@
 <html>
 <body>
 
+{% comment %}
+    <div class="page__footer">
+      <footer>
+        {% include footer/custom.html %}
+        {% include footer.html %}
+      </footer>
+    </div>
+{% endcomment %}
+
 <style>
   .footer {display: none; }
 </style>
