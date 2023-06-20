@@ -1,13 +1,8 @@
 <html>
 <body>
 
-<script> var x = document.getElementsByClassName("site-footer-credits"); 
-x.style = "color:red";
-x.remove(); </script>
-
- 
 <style>
-  .footer {display: none;}
+  .footer {display: none; }
 </style>
 
 <h2>Privacy Policy</h2>
