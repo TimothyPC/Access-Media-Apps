@@ -1,6 +1,1 @@
-theme: jekyll-theme-minimal
-extra:
-  generator: false
-hide:
-  - footer
-  
+theme: minima
