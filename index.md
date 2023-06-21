@@ -19,6 +19,12 @@
 <style>
   .footer {display: none; }
 </style>
+	
+	
+	header_pages:
+- about.md
+	
+	
 
 <h2>Privacy Policy</h2>
 <p>Access has built this app as a free app. This SERVICE is provided by Access at no cost and is intended
